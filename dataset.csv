@@ -1,0 +1,1236 @@
+client_id,age,plan,monthly_charges,tenure_months,payment_method,tv_service,antivirus,cloud_storage,support_tickets_last_month,churn
+C100000,48.0,Standard,822.65,23,Bank transfer,Yes,No,No,2,0
+C100001,40.0,Premium,1500.8,17,Card,No,Yes,No,0,1
+C100002,50.0,Basic,,23,Card,Yes,No,No,4,0
+C100003,60.0,Standard,1181.95,22,E-wallet,Yes,No,No,2,1
+C100004,39.0,Standard,780.18,9,Card,Yes,No,No,2,0
+C100005,,Standard,764.99,49,Card,No,No,No,0,0
+C100006,,Basic,430.31,11,Card,No,No,No,1,0
+C100007,,Basic,649.58,15,Bank transfer,Yes,No,No,1,0
+C100008,36.0,Basic,482.6,19,E-wallet,No,No,No,1,0
+C100009,49.0,Basic,785.4,40,Card,No,Yes,Yes,2,0
+C100010,36.0,Basic,668.97,14,E-wallet,No,Yes,No,3,0
+C100011,36.0,Standard,941.6,57,Card,Yes,No,No,3,0
+C100012,45.0,Basic,612.1,30,Card,No,No,No,4,0
+C100013,19.0,Basic,702.01,27,E-wallet,Yes,No,No,3,0
+C100014,21.0,Standard,981.62,23,Bank transfer,No,Yes,No,1,0
+C100015,35.0,Standard,1422.11,20,Cash,Yes,No,Yes,3,1
+C100016,30.0,Premium,1856.77,16,Card,Yes,Yes,No,1,1
+C100017,46.0,Standard,1161.95,10,Bank transfer,Yes,No,No,1,1
+C100018,31.0,Basic,437.77,14,Bank transfer,No,Yes,Yes,1,0
+C100019,25.0,Premium,1739.47,47,Cash,Yes,No,No,1,1
+C100020,60.0,Standard,1115.37,29,Card,No,Yes,No,1,1
+C100021,39.0,Basic,1070.77,47,E-wallet,Yes,No,Yes,4,1
+C100022,43.0,Standard,1048.5,16,Bank transfer,No,No,No,1,1
+C100023,25.0,Premium,1589.4,12,Card,No,No,No,2,1
+C100024,35.0,Basic,605.44,22,Bank transfer,No,No,No,2,0
+C100025,43.0,Basic,661.84,14,Card,No,No,No,1,0
+C100026,28.0,Basic,919.29,25,Bank transfer,No,No,Yes,3,1
+C100027,47.0,Basic,,9,E-wallet,Yes,No,Yes,3,0
+C100028,35.0,Basic,431.33,6,Bank transfer,No,Yes,No,1,0
+C100029,38.0,Standard,1013.1,27,Bank transfer,Yes,No,No,2,0
+C100030,35.0,Basic,546.79,47,Bank transfer,No,No,No,2,0
+C100031,64.0,Premium,1528.99,27,Card,No,Yes,No,5,1
+C100032,,Standard,1020.41,29,Card,Yes,Yes,No,2,0
+C100033,29.0,Standard,,23,Bank transfer,Yes,No,No,2,0
+C100034,52.0,Premium,1611.06,24,Card,No,Yes,Yes,4,1
+C100035,27.0,Basic,776.93,9,Card,No,No,Yes,1,0
+C100036,45.0,Standard,1389.64,15,Bank transfer,No,Yes,Yes,4,1
+C100037,18.0,Standard,1009.99,39,Card,No,No,No,2,0
+C100038,26.0,Premium,1706.89,12,Card,No,No,Yes,0,1
+C100039,44.0,Standard,890.3,19,Bank transfer,No,No,No,6,0
+C100040,51.0,Basic,440.95,39,Card,Yes,No,No,0,0
+C100041,44.0,Premium,1495.37,24,Cash,Yes,No,No,3,1
+C100042,41.0,Basic,468.95,24,E-wallet,No,No,No,1,0
+C100043,38.0,Premium ,1460.35,19,E-wallet,No,Yes,No,1,1
+C100044,24.0,Premium,1526.56,31,Card,No,Yes,No,2,1
+C100045,33.0,Basic,672.97,35,E-wallet,No,Yes,No,1,0
+C100046,36.0,Standard,1152.36,14,E-wallet,Yes,No,No,1,1
+C100047,55.0,Basic,,10,E-wallet,No,Yes,No,2,0
+C100048,46.0,Basic,541.55,7,Card,Yes,Yes,No,3,0
+C100049,21.0,Standard,992.05,28,Bank transfer,Yes,No,No,0,0
+C100050,46.0,Standard,905.25,27,E-wallet,No,No,No,2,0
+C100051,37.0,Premium,1696.74,65,Bank transfer,Yes,No,No,2,1
+C100052,34.0,Standard,951.86,23,Bank transfer,No,Yes,No,4,0
+C100053,49.0,Standard,1081.51,21,Bank transfer,No,Yes,No,1,0
+C100054,54.0,Premium,1434.81,25,Bank transfer,No,No,No,0,1
+C100055,53.0,Premium,1675.27,26,Card,Yes,Yes,No,3,1
+C100056,32.0,Basic,761.66,20,Bank transfer,Yes,No,No,1,0
+C100057,38.0,Premium,1470.7,14,Card,Yes,No,No,1,1
+C100058,46.0,Basic,430.98,22,Card,No,No,No,4,0
+C100059,54.0,Premium,1518.57,22,Card,No,Yes,No,3,1
+C100060,36.0,Basic,603.18,22,Bank transfer,No,No,Yes,7,0
+C100061,40.0,Basic,710.96,33,Card,Yes,No,No,1,0
+C100062,29.0,Basic,414.42,22,E wallet,No,No,No,2,0
+C100063,,Standard,1377.16,10,E-wallet,Yes,Yes,Yes,2,1
+C100064,52.0,Basic,757.98,16,Card,Yes,Yes,No,1,0
+C100065,58.0,Basic,645.79,20,Card,No,Yes,No,2,0
+C100066,41.0,Standard,844.83,23,Card,No,No,No,3,1
+C100067,54.0,Premium,1509.31,29,E-wallet,Yes,No,No,2,1
+C100068,46.0,Basic,661.52,23,Bank transfer,Yes,No,No,0,0
+C100069,34.0,Basic,524.25,6,Bank transfer,No,No,No,2,0
+C100070,46.0,Basic,649.5,11,Card,Yes,No,No,2,0
+C100071,60.0,Basic,1034.64,30,Bank transfer,Yes,No,Yes,0,0
+C100072,42.0,Premium,1281.11,20,E-wallet,No,No,No,1,1
+C100073,61.0,Premium,1512.3,24,E-wallet,No,Yes,No,3,1
+C100074,18.0,Standard,711.16,18,Bank transfer,No,No,No,0,0
+C100075,52.0,Basic,44009.02,16,Card,No,Yes,No,1,0
+C100076,43.0,Standard,766.17,19,Card,No,No,No,1,0
+C100077,38.0,Standard,1016.6,24,Card,Yes,No,No,2,0
+C100078,43.0,Premium,1355.35,22,Card,No,No,No,0,1
+C100079,18.0,Standard,1053.71,35,Card,No,Yes,No,0,0
+C100080,39.0,Standard,983.67,9,Card,Yes,No,No,0,0
+C100081,46.0,Standard,948.56,10,Card,No,Yes,No,3,1
+C100082,60.0,Basic,1002.3,20,Cash,Yes,No,Yes,3,0
+C100083,36.0,Premium,1704.15,29,Bank transfer,Yes,Yes,No,0,1
+C100084,32.0,Standard,1162.67,32,E-wallet,Yes,No,Yes,2,1
+C100085,,Standard,1049.9,16,E-wallet,No,No,Yes,3,0
+C100086,53.0,Basic,697.44,4,Card,No,No,No,5,0
+C100087,46.0,Standard,871.78,16,E-wallet,No,No,No,3,0
+C100088,36.0,Standard,937.29,27,Card,No,Yes,No,1,0
+C100089,,Basic,687.8,22,Bank transfer,Yes,Yes,No,3,0
+C100090,43.0,Basic,584.1,29,Card,Yes,No,No,2,0
+C100091,54.0,Standard,1098.66,39,Cash,Yes,Yes,No,0,1
+C100092,34.0,Standard,1016.44,20,Card,Yes,Yes,No,2,1
+C100093,38.0,Standard,-33.71,17,Card,Yes,No,No,4,0
+C100094,37.0,Basic,400.48,13,Cash,No,No,No,3,0
+C100095,24.0,Standard,1090.99,10,Card,No,Yes,No,2,0
+C100096,46.0,Basic,574.25,8,Bank transfer,No,Yes,No,3,0
+C100097,45.0,Basic,925.14,15,E-wallet,Yes,Yes,Yes,3,0
+C100098,,Basic,832.41,36,E-wallet,No,No,Yes,1,0
+C100099,39.0,Basic,985.4,31,Cash,Yes,No,Yes,1,1
+C100100,,Basic,796.15,17,Cash,Yes,No,Yes,4,0
+C100101,37.0,Basic,424.3,57,Card,No,No,No,2,0
+C100102,38.0,Basic,696.27,16,E-wallet,No,Yes,Yes,5,0
+C100103,32.0,Basic,913.13,41,Bank transfer,Yes,No,Yes,3,0
+C100104,40.0,Standard,1055.44,45,Bank transfer,No,No,Yes,2,0
+C100105,47.0,Standard,1303.62,28,Card,Yes,Yes,Yes,0,1
+C100106,65.0,Basic,582.36,15,Bank transfer,No,No,Yes,2,0
+C100107,44.0,Premium,1307.64,18,Cash,No,No,No,3,1
+C100108,45.0,Basic,538.41,24,Cash,No,No,No,4,0
+C100109,41.0,Standard,1072.15,10,E wallet,Yes,No,Yes,1,0
+C100110,19.0,Basic,889.38,13,Card,Yes,Yes,No,1,0
+C100111,42.0,Basic,555.94,12,Card,No,Yes,No,2,0
+C100112,43.0,Standard,1062.04,29,E-wallet,No,No,Yes,5,1
+C100113,72.0,Standard,1009.56,39,E-wallet,Yes,Yes,No,0,0
+C100114,40.0,Premium,1398.52,31,Bank transfer,No,No,No,1,1
+C100115,46.0,Standard,860.6,36,Card,No,No,No,3,0
+C100116,42.0,Premium,1393.99,14,Card,No,No,No,1,1
+C100117,28.0,Basic,856.61,18,Bank transfer,No,No,Yes,2,0
+C100118,56.0,Basic,521.32,19,Cash,No,No,No,4,0
+C100119,51.0,Basic,404.64,28,Bank transfer,No,No,No,3,0
+C100120,51.0,Basic,414.64,15,Card,No,No,No,1,0
+C100121,31.0,Standard,1421.42,34,Bank transfer,Yes,Yes,Yes,4,1
+C100122,,Standard,1325.84,45,Card,Yes,Yes,No,4,1
+C100123,25.0,Basic,803.83,28,Cash,Yes,Yes,No,0,0
+C100124,49.0,Premium,1602.65,18,Card,No,Yes,No,8,1
+C100125,68.0,Premium,1923.17,14,Bank transfer,Yes,Yes,Yes,3,1
+C100126,30.0,Premium ,790.29,12,Card,No,Yes,No,2,0
+C100127,35.0,Basic,416.05,6,Bank transfer,Yes,No,No,3,0
+C100128,43.0,Basic,730.07,20,Bank transfer,Yes,No,No,0,0
+C100129,36.0,Basic,738.05,19,E-wallet,No,Yes,No,2,0
+C100130,23.0,Basic,489.35,33,Card,Yes,No,No,2,0
+C100131,,Standard,943.72,16,Card,Yes,No,No,1,0
+C100132,29.0,Basic,667.91,20,Card,Yes,Yes,No,3,0
+C100133,48.0,Basic,412.55,25,Bank transfer,No,No,No,1,0
+C100134,31.0,Premium,1342.19,28,Card,No,No,No,3,1
+C100135,61.0,basic,1109.11,32,Bank transfer,No,No,Yes,1,0
+C100136,33.0,Premium,1503.88,24,E-wallet,No,No,No,0,1
+C100137,38.0,Basic,749.76,10,E-wallet,No,Yes,No,2,0
+C100138,52.0,Basic,549.46,27,Card,Yes,No,No,0,0
+C100139,27.0,Standard,1068.64,15,Bank transfer,Yes,Yes,No,2,1
+C100140,45.0,Basic,657.9,40,Card,No,No,No,4,0
+C100141,,Basic,727.61,22,Bank transfer,Yes,No,No,1,0
+C100142,23.0,Standard,1239.94,25,E-wallet,Yes,No,Yes,1,0
+C100143,44.0,Standard,1076.8,67,Card,No,Yes,No,0,0
+C100144,45.0,Basic,676.42,32,Card,No,No,Yes,3,0
+C100145,51.0,Standard,,27,E-wallet,Yes,No,No,0,1
+C100146,27.0,Basic,609.67,20,E-wallet,Yes,No,No,1,0
+C100147,26.0,Basic,532.26,11,Card,No,No,No,3,0
+C100148,,Basic,318.73,20,Bank transfer,No,No,No,1,0
+C100149,46.0,Basic,597.47,14,Card,No,No,Yes,0,0
+C100150,45.0,Basic,598.76,47,Card,No,No,Yes,1,0
+C100151,46.0,Premium ,1355.07,27,Cash,No,No,No,1,1
+C100152,34.0,Standard,24704.35,39,E-wallet,No,No,No,3,0
+C100153,45.0,Standard,1015.97,16,E-wallet,No,No,Yes,1,0
+C100154,46.0,Basic,588.27,14,Card,Yes,Yes,No,3,0
+C100155,33.0,Basic,565.84,30,card,No,No,No,2,0
+C100156,64.0,Basic,640.1,13,Card,Yes,No,No,2,0
+C100157,48.0,Basic,565.38,17,Card,Yes,Yes,No,1,0
+C100158,28.0,Basic,,48,Bank transfer,No,No,No,2,0
+C100159,50.0,Standard,940.39,18,Card,No,No,No,4,0
+C100160,30.0,Standard,834.84,9,E-wallet,No,No,No,0,0
+C100161,51.0,Standard,1146.37,7,Bank transfer,Yes,No,Yes,2,1
+C100162,56.0,Standard,1011.05,9,Card,No,Yes,No,1,0
+C100163,32.0,Premium,1561.23,40,Card,No,Yes,No,1,1
+C100164,54.0,Basic,327.64,16,Card,No,No,No,3,0
+C100165,47.0,Basic,836.02,66,Card,Yes,Yes,No,2,0
+C100166,52.0,Basic,,45,Bank transfer,Yes,Yes,Yes,3,0
+C100167,65.0,Standard,1077.85,54,E-wallet,No,No,Yes,2,0
+C100168,39.0,Premium,1665.75,36,Card,Yes,Yes,No,2,1
+C100169,33.0,Basic,436.75,30,Card,No,No,No,1,0
+C100170,31.0,Premium,,14,Bank transfer,No,No,No,3,0
+C100171,32.0,Premium,,22,E-wallet,Yes,Yes,No,5,1
+C100172,41.0,Basic,965.04,31,Card,Yes,Yes,No,1,1
+C100173,46.0,Basic,,35,Card,Yes,No,No,3,0
+C100174,45.0,Basic,703.08,11,Bank transfer,No,No,No,1,0
+C100175,52.0,Premium,1638.83,20,Card,Yes,Yes,No,1,1
+C100176,42.0,Basic,504.24,21,Card,No,No,No,1,0
+C100177,59.0,Standard,889.59,21,E-wallet,No,Yes,No,1,0
+C100178,39.0,Basic,587.45,12,Bank transfer,No,No,Yes,2,0
+C100179,75.0,Standard,1109.65,51,Bank transfer,Yes,Yes,No,2,1
+C100180,50.0,Basic,824.52,19,E-wallet,Yes,Yes,Yes,1,0
+C100181,32.0,Standard,994.93,13,Bank transfer,No,Yes,No,4,1
+C100182,29.0,Premium,,52,Card,No,No,Yes,5,1
+C100183,48.0,Premium,1622.09,45,Card,No,No,No,2,1
+C100184,39.0,basic,1410.08,24,Card,Yes,No,No,1,1
+C100185,51.0,Basic,662.32,7,Card,Yes,No,No,2,1
+C100186,48.0,Standard,1229.74,17,Bank transfer,No,Yes,Yes,3,1
+C100187,41.0,Basic,821.56,8,E-wallet,Yes,Yes,Yes,0,0
+C100188,32.0,Basic,582.42,28,Cash,No,No,No,1,0
+C100189,24.0,Standard,1032.2,16,Bank transfer,No,No,Yes,4,0
+C100190,37.0,Basic,350.91,22,Card,Yes,No,No,4,0
+C100191,52.0,Standard,1099.18,49,Card,No,Yes,No,0,0
+C100192,45.0,Premium,1265.97,16,E-wallet,No,No,No,4,1
+C100193,,Premium ,644.27,28,Bank transfer,Yes,Yes,No,2,0
+C100194,44.0,Standard,982.55,32,Bank transfer,No,No,No,2,0
+C100195,47.0,Basic,908.34,39,E-wallet,Yes,Yes,Yes,1,0
+C100196,31.0,Basic,-265.14,21,E-wallet,Yes,No,Yes,3,0
+C100197,44.0,Basic,1095.22,20,E-wallet,Yes,Yes,Yes,0,0
+C100198,43.0,Premium,1502.61,19,Card,No,No,Yes,1,1
+C100199,28.0,Premium,1675.19,26,E-wallet,No,No,Yes,1,1
+C100200,46.0,Premium,1309.34,44,E-wallet,No,No,No,2,1
+C100201,49.0,Premium,1817.97,19,Card,Yes,No,No,0,1
+C100202,55.0,Basic,416.85,4,Bank transfer,No,No,No,2,0
+C100203,55.0,Basic,773.13,34,Card,Yes,No,No,2,0
+C100204,25.0,Standard,1001.25,23,Cash,No,No,No,1,1
+C100205,31.0,Standard,1057.93,28,Card,No,Yes,No,2,1
+C100206,48.0,Basic,749.53,8,Bank transfer,Yes,No,Yes,2,0
+C100207,,Basic,631.83,16,Card,Yes,No,No,1,0
+C100208,48.0,Standard,821.57,32,E-wallet,No,No,Yes,2,0
+C100209,75.0,Standart,36389.88,11,Card,Yes,No,Yes,1,1
+C100210,49.0,Basic,661.95,28,Card,No,Yes,No,3,0
+C100211,56.0,Standard,1186.02,22,Bank transfer,Yes,Yes,No,0,1
+C100212,,Standard,813.2,15,Cash,Yes,Yes,No,1,0
+C100213,50.0,Standard,1048.12,14,Card,No,Yes,Yes,1,0
+C100214,38.0,Basic,410.23,12,Card,No,No,No,4,0
+C100215,51.0,Standard,935.0,23,E-wallet,No,No,No,3,0
+C100216,,Basic,684.72,24,Bank transfer,Yes,No,No,0,0
+C100217,39.0,Basic,629.57,18,Cash,Yes,No,No,1,0
+C100218,36.0,Standard,1246.23,12,Card,Yes,Yes,No,2,1
+C100219,,Standard,956.85,27,Bank transfer,No,No,Yes,0,0
+C100220,70.0,Basic,573.23,34,Card,No,No,No,2,0
+C100221,,Standard,956.97,30,Card,No,No,No,2,0
+C100222,50.0,Standard,945.31,55,Bank transfer,No,No,No,0,0
+C100223,23.0,Standard,1028.16,20,Bank transfer,Yes,No,No,1,0
+C100224,36.0,Standard,1119.69,42,E-wallet,No,No,No,4,1
+C100225,55.0,Standard,959.18,15,Card,No,No,No,1,0
+C100226,43.0,Standard,903.8,14,Card,No,Yes,No,2,0
+C100227,29.0,Basic,799.8,23,Card,Yes,Yes,No,2,0
+C100228,33.0,Basic,740.3,46,Cash,Yes,No,No,0,0
+C100229,50.0,Basic,609.43,19,Card,No,No,Yes,2,0
+C100230,33.0,Standard,1360.71,8,Card,Yes,No,Yes,1,1
+C100231,45.0,Standard,1095.84,34,Card,Yes,No,No,1,0
+C100232,43.0,Basic,368.9,21,Bank transfer,Yes,No,No,3,0
+C100233,34.0,Basic,655.96,26,Card,No,Yes,No,2,0
+C100234,68.0,Standard,1001.28,14,Cash,Yes,No,No,4,1
+C100235,50.0,Basic,894.46,23,Card,Yes,No,Yes,2,0
+C100236,18.0,Standard,1463.31,9,E-wallet,Yes,Yes,Yes,2,1
+C100237,,Basic,523.42,51,Card,No,No,No,1,0
+C100238,34.0,Standard,,37,Bank transfer,No,No,Yes,2,1
+C100239,52.0,Premium,1378.56,23,Cash,No,No,No,2,1
+C100240,32.0,Basic,754.98,33,Card,No,No,Yes,4,0
+C100241,41.0,Standard,1116.59,15,Cash,No,Yes,No,3,1
+C100242,48.0,Basic,638.32,36,Bank transfer,Yes,No,No,2,0
+C100243,52.0,Standard,1143.45,18,Cash,Yes,No,No,1,1
+C100244,28.0,Standard,978.64,18,Bank transfer,Yes,No,No,0,0
+C100245,38.0,Basic,899.29,13,Card,Yes,Yes,Yes,5,0
+C100246,36.0,Standard,892.5,27,Card,Yes,No,No,4,0
+C100247,34.0,Premium,1548.97,22,Card,No,Yes,No,2,1
+C100248,63.0,Basic,659.03,43,Card,No,Yes,No,2,0
+C100249,47.0,Basic,641.51,12,Card,No,No,No,4,0
+C100250,27.0,Standart,1794.94,27,Card,No,Yes,Yes,3,1
+C100251,53.0,Standard,43510.71,39,Card,Yes,No,No,6,0
+C100252,,Premium,1528.62,67,E-wallet,Yes,Yes,No,0,1
+C100253,54.0,Standard,951.94,24,Card,No,No,No,3,0
+C100254,24.0,Premium,1833.29,18,Card,No,Yes,Yes,0,1
+C100255,36.0,Basic,860.62,24,Bank transfer,Yes,Yes,No,2,0
+C100256,57.0,Standard,1150.14,41,Card,No,Yes,No,1,0
+C100257,34.0,Premium,1554.57,41,Card,No,No,Yes,4,1
+C100258,47.0,Standard,-251.75,21,Card,No,No,No,3,0
+C100259,51.0,Basic,531.57,41,Cash,No,Yes,No,4,0
+C100260,31.0,Basic,643.29,22,E-wallet,Yes,No,No,0,0
+C100261,41.0,Basic,,33,Card,Yes,No,No,1,0
+C100262,,Basic,524.8,29,Bank transfer,No,No,No,1,0
+C100263,30.0,Basic,,18,Bank transfer,Yes,No,No,0,0
+C100264,39.0,Standard,883.96,13,Bank transfer,No,No,No,4,0
+C100265,27.0,Standard,1106.8,39,Bank transfer,No,Yes,Yes,1,0
+C100266,62.0,Basic,762.99,45,Bank transfer,Yes,No,No,2,0
+C100267,25.0,Standard,909.18,27,Card,No,No,No,2,0
+C100268,37.0,Basic,479.07,22,Card,No,No,No,0,0
+C100269,44.0,Basic,680.31,11,Bank transfer,Yes,Yes,No,0,0
+C100270,59.0,Basic,460.17,39,E-wallet,No,Yes,No,2,0
+C100271,25.0,Standard,1056.96,25,Bank transfer,No,No,No,2,1
+C100272,56.0,Basic,43159.56,19,E-wallet,No,No,No,0,0
+C100273,42.0,Basic,455.13,34,Cash,Yes,No,No,1,0
+C100274,30.0,Basic,771.58,10,Card,No,No,Yes,1,0
+C100275,48.0,Premium,1630.7,12,Bank transfer,No,Yes,No,0,1
+C100276,44.0,Basic,784.93,15,Bank transfer,Yes,Yes,No,3,0
+C100277,,Standard,1241.77,28,Cash,Yes,No,No,3,1
+C100278,43.0,Standard,1046.01,24,Cash,No,Yes,No,2,0
+C100279,37.0,Standard,999.98,30,Bank transfer,Yes,Yes,No,2,1
+C100280,43.0,Premium,1623.82,37,Card,No,No,Yes,1,1
+C100281,50.0,Basic,529.39,31,E-wallet,No,No,No,3,0
+C100282,61.0,Basic,547.6,52,E wallet,No,Yes,No,4,0
+C100283,27.0,Premium,1798.83,37,E-wallet,Yes,No,Yes,1,1
+C100284,68.0,Standard,879.88,21,Cash,No,No,Yes,2,0
+C100285,,Standard,1288.87,16,Card,Yes,Yes,No,2,1
+C100286,40.0,Standard,794.63,21,Bank transfer,No,No,No,0,0
+C100287,,Standard,,31,Card,No,No,Yes,4,0
+C100288,,Premium,1386.34,17,Card,No,No,No,3,1
+C100289,35.0,Premium,1451.96,32,Card,No,No,No,2,1
+C100290,40.0,Standard,919.67,30,E-wallet,No,No,No,3,0
+C100291,36.0,Basic,680.88,13,Cash,Yes,Yes,No,3,0
+C100292,35.0,Premium,1339.27,37,Cash,No,No,No,2,1
+C100293,52.0,Basic,544.03,26,Card,No,No,Yes,4,0
+C100294,46.0,Basic,803.04,51,E-wallet,Yes,No,Yes,2,0
+C100295,34.0,Premium,1679.0,22,E-wallet,Yes,No,No,0,1
+C100296,53.0,Basic,619.49,19,Card,No,Yes,No,2,0
+C100297,46.0,Basic,753.13,12,Card,Yes,No,No,2,0
+C100298,52.0,Basic,674.65,12,Card,No,No,No,2,0
+C100299,50.0,Premium,1449.44,35,Cash,No,Yes,No,3,1
+C100300,32.0,Standard,1027.61,48,Bank transfer,Yes,No,No,2,0
+C100301,35.0,Standard,1340.54,21,E-wallet,No,No,Yes,3,1
+C100302,,Basic,1003.32,20,Card,Yes,No,Yes,1,1
+C100303,49.0,Standard,819.31,23,E-wallet,No,Yes,No,1,0
+C100304,42.0,Standard,1126.46,38,Card,No,No,Yes,0,1
+C100305,43.0,Basic,800.07,13,Card,No,Yes,Yes,6,0
+C100306,57.0,Basic,719.17,25,Bank transfer,No,Yes,No,2,0
+C100307,,Basic,410.6,35,Card,No,No,No,6,0
+C100308,49.0,Premium,1419.25,28,E-wallet,No,Yes,No,2,1
+C100309,40.0,Standard,1268.87,3,Card,Yes,Yes,Yes,1,1
+C100310,39.0,Premium,1781.37,31,Bank transfer,Yes,Yes,Yes,1,1
+C100311,55.0,Basic,717.84,28,Card,No,Yes,No,0,0
+C100312,52.0,Standard,878.26,42,Bank transfer,No,Yes,No,2,0
+C100313,52.0,Standard,825.29,46,Card,No,No,No,2,0
+C100314,58.0,Standard,805.32,41,Card,No,Yes,No,3,0
+C100315,42.0,Premium,1790.85,23,Cash,Yes,Yes,No,2,1
+C100316,50.0,Standart,772.52,8,Card,No,Yes,No,0,0
+C100317,38.0,Basic,640.75,58,E-wallet,No,No,Yes,1,0
+C100318,,Standard,,20,Cash,Yes,No,No,2,0
+C100319,40.0,Standard,1104.39,23,Card,Yes,No,No,2,1
+C100320,43.0,Standard,1076.94,48,Card,No,No,No,2,0
+C100321,49.0,Basic,56122.11,15,Bank transfer,Yes,No,No,0,0
+C100322,32.0,Standard,1266.29,10,Cash,Yes,Yes,Yes,3,1
+C100323,67.0,Basic,575.74,17,Cash,Yes,Yes,No,3,0
+C100324,30.0,Basic,366.18,15,Bank transfer,No,No,No,3,0
+C100325,27.0,Standard,1208.79,9,E-wallet,No,Yes,Yes,1,1
+C100326,56.0,Standard,,21,Card,No,No,Yes,3,0
+C100327,51.0,Basic,643.4,23,Cash,No,Yes,No,1,0
+C100328,,Basic,583.65,9,Cash,Yes,No,No,1,0
+C100329,50.0,Basic,,19,Bank Transfer ,No,Yes,Yes,1,0
+C100330,42.0,Basic,628.76,14,Card,Yes,Yes,No,2,0
+C100331,31.0,Standard,1417.48,7,Card,Yes,No,Yes,3,1
+C100332,43.0,Premium,1506.68,23,Card,No,No,No,4,1
+C100333,34.0,basic,707.66,25,E-wallet,No,No,No,2,0
+C100334,54.0,Standard,1294.79,14,Card,Yes,No,Yes,1,1
+C100335,40.0,Premium,1618.4,37,Card,Yes,Yes,No,4,1
+C100336,32.0,Premium,1858.8,22,Card,No,Yes,Yes,2,1
+C100337,38.0,Basic,33174.86,15,Cash,Yes,Yes,No,0,0
+C100338,47.0,Premium,1876.5,9,Bank transfer,Yes,Yes,Yes,0,1
+C100339,35.0,Basic,764.86,25,Card,Yes,Yes,No,1,0
+C100340,32.0,Basic,596.37,28,Card,Yes,Yes,Yes,0,0
+C100341,45.0,Basic,692.57,17,Cash,No,No,No,1,0
+C100342,,Standard,1228.92,24,E-wallet,Yes,Yes,No,3,0
+C100343,,Basic,869.58,46,Card,Yes,No,Yes,2,0
+C100344,36.0,Basic,492.59,34,Card,No,No,No,3,0
+C100345,45.0,Basic,699.61,5,Card,No,No,Yes,3,0
+C100346,25.0,Premium,1478.33,15,Card,Yes,No,No,2,1
+C100347,25.0,Premium,1923.99,21,Bank transfer,Yes,Yes,Yes,0,1
+C100348,33.0,Basic,613.15,23,Cash,Yes,Yes,No,1,0
+C100349,,Premium,1422.33,24,Bank transfer,No,No,No,1,1
+C100350,46.0,Premium,1467.39,27,E-wallet,No,No,No,1,1
+C100351,60.0,Standard,996.16,21,Card,No,Yes,No,1,1
+C100352,52.0,Basic,664.5,22,E-wallet,No,Yes,No,0,0
+C100353,40.0,Standard,781.04,35,E-wallet,No,No,No,0,0
+C100354,42.0,Premium,1404.1,25,Card,No,Yes,No,1,1
+C100355,30.0,Standard,,11,Card,No,No,No,1,0
+C100356,42.0,Basic,911.43,23,Bank transfer,Yes,No,Yes,0,0
+C100357,39.0,Standard,795.02,21,Card,No,Yes,No,5,0
+C100358,46.0,Standard,1112.64,7,Card,Yes,No,No,1,1
+C100359,32.0,Standard,984.82,24,Bank transfer,Yes,No,No,3,0
+C100360,48.0,Basic,596.86,12,Cash,No,Yes,No,0,0
+C100361,60.0,Basic,669.26,35,Bank transfer,Yes,No,Yes,2,0
+C100362,41.0,Premium,1297.81,27,E-wallet,No,No,No,0,1
+C100363,47.0,Standart,1695.94,11,Card,No,No,Yes,1,1
+C100364,50.0,Basic,803.94,34,E-wallet,No,Yes,Yes,1,0
+C100365,37.0,Premium,1534.07,42,Bank transfer,No,No,Yes,2,1
+C100366,45.0,Basic,636.02,19,E-wallet,Yes,No,No,2,0
+C100367,42.0,Standard,1138.71,20,Card,No,No,Yes,2,1
+C100368,43.0,Standard,,33,Bank transfer,No,No,Yes,1,0
+C100369,33.0,Premium,,41,Bank transfer,No,Yes,No,4,1
+C100370,42.0,Premium,1711.16,8,Card,No,No,Yes,1,1
+C100371,48.0,Basic,946.46,12,Card,Yes,No,Yes,1,0
+C100372,59.0,Premium,1749.6,18,Card,No,Yes,Yes,1,1
+C100373,54.0,Basic,656.55,19,Card,Yes,No,No,1,0
+C100374,68.0,Standard,1098.88,32,E-wallet,No,Yes,No,0,0
+C100375,33.0,Standard,1267.71,41,Card,Yes,No,Yes,4,1
+C100376,52.0,Standard,1147.3,42,Card,No,Yes,No,2,1
+C100377,44.0,Basic,,8,E-wallet,Yes,No,No,3,0
+C100378,68.0,Premium,1427.81,14,Card,Yes,No,No,4,1
+C100379,32.0,Basic,369.68,11,Bank transfer,No,No,No,3,0
+C100380,32.0,Basic,415.85,16,Card,No,No,No,1,0
+C100381,35.0,Standard,1017.14,14,Cash,No,No,No,3,0
+C100382,18.0,Standard,,27,E-wallet,No,Yes,Yes,1,0
+C100383,36.0,Premium,1627.37,29,E-wallet,No,No,Yes,0,1
+C100384,,Basic,543.51,22,Card,No,No,No,3,0
+C100385,44.0,Basic,969.52,21,E-wallet,Yes,No,Yes,1,0
+C100386,46.0,Premium,1541.64,18,Card,No,Yes,No,2,1
+C100387,,Standard,888.81,19,Card,Yes,No,No,3,0
+C100388,53.0,Basic,384.88,46,Card,No,No,No,0,0
+C100389,35.0,Standard,758.16,31,Bank transfer,No,No,No,3,0
+C100390,31.0,Standard,955.45,18,Bank transfer,No,Yes,No,1,1
+C100391,48.0,Standard,1178.05,21,Bank transfer,No,Yes,Yes,2,1
+C100392,26.0,Standard,760.15,28,Card,No,No,No,0,0
+C100393,64.0,Premium,1696.48,11,Card,No,Yes,No,1,1
+C100394,56.0,Premium,1390.97,24,E-wallet,Yes,No,No,0,1
+C100395,36.0,Standard,,30,Card,No,Yes,No,1,1
+C100396,21.0,Basic,792.22,28,E-wallet,Yes,No,No,3,0
+C100397,58.0,Premium,1507.8,14,Card,No,No,No,3,1
+C100398,41.0,Standard,966.75,16,E-wallet,Yes,No,No,2,0
+C100399,57.0,Standard,1091.09,6,Bank transfer,Yes,No,No,1,0
+C100400,23.0,Basic,616.72,32,Card,Yes,Yes,No,1,0
+C100401,35.0,Premium,1629.31,55,Card,No,Yes,No,4,1
+C100402,,Standard,1011.12,13,Bank transfer,No,Yes,No,4,0
+C100403,43.0,Basic,780.88,37,E-wallet,Yes,No,Yes,1,0
+C100404,37.0,Basic,353.15,53,Card,No,No,No,3,0
+C100405,49.0,Premium,1252.7,17,Card,Yes,No,No,1,1
+C100406,29.0,Basic,25726.1,21,E-wallet,No,No,No,1,0
+C100407,40.0,Premium,1533.54,25,Bank transfer,No,No,No,1,1
+C100408,43.0,Standard,1031.66,28,Card,No,No,Yes,2,0
+C100409,48.0,Standard,1179.68,26,Bank transfer,No,Yes,Yes,1,1
+C100410,51.0,Basic,1028.67,18,Card,Yes,Yes,Yes,3,1
+C100411,29.0,Basic,896.68,30,Bank transfer,No,No,Yes,2,0
+C100412,24.0,Premium,1559.0,18,Card,No,No,No,0,1
+C100413,57.0,Basic,503.32,27,Cash,No,Yes,No,0,0
+C100414,46.0,Standard,666.89,22,E wallet,No,No,No,1,0
+C100415,33.0,Basic,933.15,7,Bank transfer,Yes,No,No,1,0
+C100416,61.0,Basic,952.28,40,Bank transfer,No,No,Yes,2,0
+C100417,43.0,Basic,822.61,16,Cash,No,Yes,Yes,1,0
+C100418,56.0,Standard,1197.54,42,E-wallet,Yes,Yes,Yes,2,1
+C100419,43.0,Premium,1665.59,37,Bank transfer,Yes,No,No,3,1
+C100420,,Basic,637.04,25,E-wallet,Yes,No,No,1,0
+C100421,63.0,Basic,666.44,29,Bank transfer,No,No,Yes,1,0
+C100422,39.0,Basic,727.34,30,Bank transfer,No,Yes,No,2,0
+C100423,,Standard,1390.12,20,Card,Yes,Yes,Yes,2,1
+C100424,50.0,Basic,,20,Bank transfer,Yes,No,No,3,0
+C100425,58.0,Premium,,30,Card,No,No,No,1,1
+C100426,30.0,Standard,979.34,22,Cash,No,No,No,4,1
+C100427,50.0,Standard,1111.23,18,Card,Yes,No,No,3,1
+C100428,55.0,Basic,801.44,14,Cash,Yes,Yes,No,1,0
+C100429,21.0,Premium,1692.01,27,Bank transfer,No,No,Yes,0,1
+C100430,28.0,Basic,606.59,16,Bank transfer,Yes,No,No,3,0
+C100431,18.0,Basic,791.44,33,Bank transfer,Yes,Yes,No,2,0
+C100432,39.0,Standard,494.93,35,Card,No,No,No,3,0
+C100433,51.0,Standard,966.04,28,Card,No,Yes,No,1,0
+C100434,60.0,Basic,861.67,31,Card,Yes,Yes,No,2,0
+C100435,43.0,Basic,723.15,28,Bank transfer,Yes,Yes,No,4,0
+C100436,62.0,Standard,1294.05,33,Card,Yes,Yes,Yes,1,1
+C100437,25.0,Basic,645.03,32,E-wallet,Yes,Yes,No,3,0
+C100438,22.0,Premium,1700.4,26,Card,No,No,Yes,3,1
+C100439,41.0,Standard,1145.82,37,Card,No,No,Yes,3,0
+C100440,47.0,Basic,599.05,20,Card,No,No,No,4,0
+C100441,42.0,Standard,812.85,15,Cash,No,Yes,No,4,0
+C100442,18.0,Basic,780.75,14,E-wallet,No,Yes,Yes,2,0
+C100443,41.0,Standard,1016.39,19,Card,Yes,No,No,2,0
+C100444,26.0,Standard,866.33,7,Bank transfer,No,No,No,3,0
+C100445,50.0,Basic,726.08,25,Card,No,Yes,Yes,0,0
+C100446,46.0,Standard,858.47,30,Cash,No,No,No,1,0
+C100447,31.0,Premium,1651.96,35,Bank transfer,Yes,No,No,2,1
+C100448,36.0,Basic,270.46,8,Card,No,No,No,0,0
+C100449,29.0,Premium,1613.28,14,Bank transfer,No,No,No,2,1
+C100450,41.0,Basic,678.06,33,Card,No,Yes,No,4,0
+C100451,53.0,Basic,644.92,20,Cash,Yes,No,No,2,0
+C100452,30.0,Basic,728.82,30,Card,No,Yes,No,3,0
+C100453,48.0,Basic,325.78,11,Bank transfer,No,No,No,4,0
+C100454,36.0,Basic,720.24,42,Card,No,Yes,Yes,3,0
+C100455,32.0,Basic,485.47,10,E-wallet,No,No,No,0,0
+C100456,41.0,Premium,1833.87,2,E-wallet,Yes,Yes,No,1,1
+C100457,30.0,Premium,1724.42,24,Bank transfer,Yes,No,Yes,4,1
+C100458,35.0,Standard,1104.01,24,Bank transfer,Yes,No,No,2,1
+C100459,28.0,Basic,429.25,17,E-wallet,No,No,No,0,0
+C100460,,Basic,,28,Card,Yes,No,Yes,2,0
+C100461,42.0,Basic,-158.21,28,Card,No,No,No,2,0
+C100462,34.0,Standard,1019.46,27,Card,No,No,No,2,0
+C100463,45.0,Premium,1540.23,17,Cash,Yes,No,No,1,1
+C100464,41.0,Basic,581.06,15,Card,No,No,No,1,0
+C100465,39.0,Basic,569.3,18,E-wallet,No,No,No,0,0
+C100466,49.0,Standard,960.79,14,Bank transfer,No,No,No,0,0
+C100467,,Basic,633.43,38,Card,No,No,No,0,0
+C100468,36.0,Basic,812.54,18,Card,No,No,Yes,0,0
+C100469,35.0,Standard,1034.74,24,Card,Yes,No,No,2,0
+C100470,39.0,Standard,1157.03,33,Card,No,No,Yes,5,0
+C100471,18.0,Basic,,13,Card,Yes,No,No,2,0
+C100472,24.0,Basic,509.23,10,Card,No,Yes,No,3,0
+C100473,58.0,Premium,1517.66,14,E-wallet,Yes,No,No,2,1
+C100474,62.0,Basic,490.85,25,Cash,No,No,No,0,0
+C100475,39.0,Basic,480.61,24,Card,No,No,Yes,1,0
+C100476,49.0,Basic,783.24,27,Card,No,No,Yes,0,0
+C100477,,Basic,617.92,21,Card,Yes,Yes,Yes,3,0
+C100478,75.0,Basic,825.78,4,Bank transfer,No,No,No,1,0
+C100479,55.0,Premium,1580.23,20,E-wallet,No,No,No,4,1
+C100480,40.0,Basic,648.68,35,Card,No,No,Yes,5,0
+C100481,31.0,Basic,771.13,39,Card,Yes,Yes,No,3,0
+C100482,23.0,Standard,936.36,23,E-wallet,No,No,No,1,0
+C100483,44.0,Standard,829.3,24,Bank transfer,No,No,No,2,0
+C100484,33.0,Premium,1693.11,30,Card,Yes,Yes,No,1,1
+C100485,25.0,Premium,1502.72,39,Bank transfer,No,Yes,No,2,1
+C100486,34.0,Basic,788.69,22,Card,No,Yes,Yes,0,0
+C100487,29.0,Standard,921.78,30,Card,No,No,No,1,0
+C100488,62.0,Standard,1012.38,16,E-wallet,Yes,Yes,No,2,0
+C100489,53.0,Premium,1524.75,11,E-wallet,No,Yes,No,0,1
+C100490,42.0,Standard,919.61,17,card,No,No,No,2,0
+C100491,60.0,Premium,1715.46,43,Cash,No,Yes,Yes,1,1
+C100492,43.0,Standard,994.1,30,Card,No,Yes,No,3,1
+C100493,,Basic,636.54,11,E-wallet,No,No,No,3,0
+C100494,60.0,Standard,857.56,31,Bank transfer,No,No,No,0,0
+C100495,48.0,Premium,1577.28,12,E-wallet,Yes,No,No,1,1
+C100496,30.0,Premium,1555.68,27,Cash,No,No,No,1,1
+C100497,40.0,Basic,490.47,13,Card,No,No,No,4,0
+C100498,31.0,Standard,1075.74,11,Cash,Yes,No,No,1,1
+C100499,25.0,Basic,758.43,47,E-wallet,Yes,Yes,No,2,0
+C100500,53.0,Basic,768.48,18,E-wallet,No,Yes,No,1,0
+C100501,65.0,Basic,649.07,30,Card,No,No,Yes,2,0
+C100502,25.0,Basic,984.0,22,E-wallet,Yes,No,Yes,0,0
+C100503,49.0,Premium,1567.57,12,E-wallet,No,No,Yes,3,1
+C100504,34.0,Basic,546.86,19,Card,Yes,No,No,1,0
+C100505,36.0,Premium,1481.52,12,Cash,No,No,No,1,1
+C100506,35.0,Basic,583.44,63,card,No,Yes,No,0,0
+C100507,32.0,Basic,694.46,32,Card,No,Yes,No,1,0
+C100508,43.0,Basic,502.47,22,Bank transfer,Yes,No,Yes,1,0
+C100509,32.0,Basic,680.62,29,Bank transfer,No,No,Yes,3,0
+C100510,45.0,Basic,774.85,31,Bank transfer,Yes,No,Yes,2,0
+C100511,41.0,Basic,492.41,31,Card,No,Yes,No,1,0
+C100512,39.0,Standard,1013.61,31,Cash,No,No,Yes,2,0
+C100513,31.0,Basic,611.16,30,Card,No,No,Yes,0,0
+C100514,35.0,Basic,764.24,23,Card,Yes,Yes,No,0,0
+C100515,51.0,Basic,335.92,45,Card,No,No,No,1,0
+C100516,48.0,Premium,,24,Bank transfer,No,No,Yes,3,1
+C100517,30.0,Premium,1833.95,23,Cash,Yes,Yes,No,2,1
+C100518,43.0,Standard,933.71,24,Bank transfer,No,No,No,4,0
+C100519,51.0,Basic,717.08,25,E-wallet,No,Yes,No,1,0
+C100520,22.0,Basic,631.35,8,Card,No,No,No,2,0
+C100521,49.0,Premium,1848.38,14,Bank transfer,No,Yes,Yes,0,1
+C100522,34.0,Basic,724.42,21,Bank transfer,No,No,No,0,0
+C100523,49.0,Basic,590.1,8,Bank transfer,Yes,No,No,0,0
+C100524,33.0,Basic,593.78,22,Card,No,No,Yes,0,0
+C100525,20.0,Basic,594.02,25,Bank transfer,No,No,No,0,0
+C100526,,Basic,734.99,10,Bank transfer,Yes,No,No,1,0
+C100527,43.0,Standard,993.08,16,E-wallet,No,No,No,2,0
+C100528,45.0,Basic,906.71,40,Bank transfer,No,No,Yes,3,0
+C100529,31.0,Standard,901.36,29,Card,No,No,No,5,0
+C100530,50.0,Basic,881.14,28,Bank transfer,Yes,No,Yes,2,0
+C100531,22.0,Basic,532.35,38,Card,Yes,No,No,1,0
+C100532,41.0,Premium,1836.24,14,E-wallet,No,No,Yes,2,1
+C100533,27.0,Basic,789.61,10,Bank transfer,Yes,No,Yes,2,0
+C100534,34.0,Premium,1363.01,35,Card,No,No,No,0,1
+C100535,43.0,Standard,1128.39,21,Cash,Yes,Yes,No,1,1
+C100536,32.0,Basic,,14,Bank transfer,Yes,Yes,No,1,0
+C100537,37.0,Premium,1432.47,56,Card,No,Yes,No,2,1
+C100538,54.0,Basic,767.16,8,Bank transfer,Yes,No,Yes,1,0
+C100539,35.0,Premium,1236.1,24,Card,No,No,No,0,1
+C100540,52.0,Basic,405.76,20,E-wallet,No,No,No,0,0
+C100541,28.0,Premium,1963.88,18,E-wallet,Yes,No,Yes,3,1
+C100542,48.0,Basic,738.28,5,Cash,Yes,No,No,1,0
+C100543,59.0,Standard,1191.11,45,Bank transfer,No,No,Yes,1,1
+C100544,,Standard,1311.27,9,Bank transfer,Yes,Yes,No,3,1
+C100545,32.0,Premium,1740.1,19,E-wallet,No,Yes,No,3,1
+C100546,49.0,Premium,1187.43,17,Card,No,No,No,2,1
+C100547,40.0,Premium,1252.41,29,Bank transfer,No,No,No,0,1
+C100548,,Premium,1303.55,8,Bank transfer,No,No,No,4,1
+C100549,35.0,Basic,743.63,28,Card,No,Yes,Yes,0,0
+C100550,43.0,Basic,463.93,24,Card,No,No,No,2,0
+C100551,40.0,Basic,896.36,15,E-wallet,Yes,Yes,Yes,1,0
+C100552,56.0,Basic,796.32,27,E-wallet,Yes,Yes,No,4,0
+C100553,45.0,Basic,774.24,22,Card,Yes,Yes,No,4,0
+C100554,46.0,Standard,933.26,50,Card,No,Yes,No,4,0
+C100555,37.0,Basic,358.93,20,Card,No,Yes,No,2,0
+C100556,36.0,Standard,900.86,13,E-wallet,No,Yes,No,2,1
+C100557,37.0,Basic,584.09,28,Card,Yes,No,No,3,0
+C100558,47.0,Basic,770.35,19,E-wallet,No,Yes,Yes,0,0
+C100559,37.0,Standard,884.44,22,Card,No,Yes,No,0,0
+C100560,,Standard,1291.1,11,Bank transfer,Yes,Yes,Yes,3,1
+C100561,67.0,Standard,764.28,30,Card,No,No,No,3,0
+C100562,52.0,Standard,1334.9,17,E-wallet,Yes,Yes,Yes,4,1
+C100563,38.0,Basic,371.23,25,Card,No,No,No,1,0
+C100564,56.0,Standard,1128.13,56,Bank transfer,Yes,No,Yes,0,0
+C100565,37.0,Basic,642.96,19,Card,No,Yes,Yes,1,0
+C100566,18.0,Basic,481.58,32,E-wallet,No,No,No,1,0
+C100567,30.0,Basic,696.03,20,E-wallet,No,Yes,Yes,2,0
+C100568,20.0,Basic,608.81,15,Card,No,No,No,0,0
+C100569,38.0,Basic,728.7,41,E-wallet,No,No,Yes,0,0
+C100570,42.0,Premium,,7,Bank transfer,No,Yes,No,2,1
+C100571,62.0,Premium,1424.3,36,Card,No,Yes,No,0,1
+C100572,46.0,Basic,695.66,6,Card,Yes,No,No,2,0
+C100573,39.0,Basic,762.88,34,Card,No,No,Yes,0,0
+C100574,52.0,Basic,787.12,22,E-wallet,Yes,Yes,No,4,0
+C100575,18.0,Basic,842.44,13,E-wallet,Yes,No,No,2,0
+C100576,45.0,Premium,1455.16,18,Card,No,No,No,0,1
+C100577,51.0,Basic,609.63,31,Bank transfer,No,No,No,2,0
+C100578,24.0,Standard,1186.03,53,E-wallet,Yes,Yes,No,6,1
+C100579,56.0,Basic,761.08,8,Cash,No,No,Yes,2,0
+C100580,46.0,Premium,1484.39,13,Bank transfer,No,No,Yes,3,1
+C100581,37.0,Basic,-37.54,10,Cash,No,Yes,Yes,0,0
+C100582,50.0,Standard,1271.92,20,Bank transfer,Yes,No,Yes,1,1
+C100583,69.0,Basic,,34,Card,No,No,Yes,2,0
+C100584,44.0,Standard,1110.91,9,E-wallet,Yes,No,No,0,0
+C100585,45.0,Basic,752.05,22,Bank transfer,No,Yes,No,1,0
+C100586,36.0,Basic,479.0,34,Bank transfer,Yes,No,No,2,0
+C100587,32.0,Premium,1613.07,18,Bank transfer,Yes,No,Yes,1,1
+C100588,52.0,Premium,1427.55,4,E-wallet,No,No,No,0,1
+C100589,32.0,Premium,1433.08,24,E-wallet,No,Yes,No,3,1
+C100590,43.0,basic,1455.33,39,Card,Yes,No,No,1,1
+C100591,36.0,Premium,1791.89,12,Card,Yes,No,Yes,3,1
+C100592,,Basic,790.6,7,Bank transfer,No,Yes,Yes,0,0
+C100593,46.0,Basic,768.14,26,Bank transfer,Yes,No,Yes,5,0
+C100594,54.0,Basic,442.38,26,Card,No,No,No,4,0
+C100595,36.0,Standard,1173.62,17,E-wallet,Yes,Yes,No,3,1
+C100596,39.0,Basic,843.44,15,Bank transfer,Yes,No,Yes,2,0
+C100597,30.0,Basic,775.2,22,Card,Yes,No,Yes,1,0
+C100598,37.0,Standard,987.22,12,Card,No,Yes,No,1,0
+C100599,47.0,Premium,1831.31,12,Card,Yes,Yes,No,3,1
+C100600,,Basic,936.14,31,Cash,Yes,Yes,No,1,1
+C100601,31.0,Basic,650.24,11,Card,No,Yes,No,0,0
+C100602,52.0,Basic,339.05,8,Card,No,No,No,1,0
+C100603,58.0,Basic,1014.62,15,Bank transfer,Yes,Yes,Yes,2,1
+C100604,47.0,Basic,686.51,17,Card,No,No,No,1,0
+C100605,65.0,Standard,1064.37,28,Card,No,No,No,1,1
+C100606,33.0,Standard,1258.13,16,Card,Yes,Yes,No,0,1
+C100607,,Standard,1400.69,43,Bank transfer,Yes,No,Yes,1,1
+C100608,21.0,Basic,506.41,23,Bank transfer,No,No,No,1,0
+C100609,60.0,Premium,1475.37,14,Card,No,No,No,3,1
+C100610,50.0,Basic,538.31,27,Card,No,Yes,No,1,0
+C100611,41.0,Standard,1385.07,42,Cash,Yes,Yes,Yes,2,1
+C100612,45.0,Premium,1709.54,30,card,Yes,No,No,3,1
+C100613,28.0,Basic,429.27,9,Card,No,No,No,5,0
+C100614,71.0,Basic,546.63,18,Card,Yes,No,No,1,0
+C100615,44.0,Premium,1411.7,25,Bank transfer,No,No,No,1,1
+C100616,43.0,Basic,772.8,30,E-wallet,No,Yes,Yes,0,0
+C100617,51.0,Standard,1307.9,20,Card,Yes,No,Yes,4,1
+C100618,48.0,Basic,565.61,19,E-wallet,No,Yes,No,0,0
+C100619,45.0,Standard,1226.21,50,Card,No,Yes,No,3,1
+C100620,33.0,Basic,345.24,31,Card,No,No,No,2,0
+C100621,48.0,Basic,,27,E-wallet,Yes,Yes,No,3,0
+C100622,,Standard,958.22,16,Card,Yes,No,No,2,1
+C100623,58.0,Basic,284.48,12,Bank transfer,No,No,No,3,0
+C100624,,Basic,798.55,27,Card,Yes,Yes,No,1,0
+C100625,36.0,Basic,469.45,32,E-wallet,No,No,No,3,0
+C100626,30.0,Basic,696.85,22,Card,Yes,No,Yes,1,0
+C100627,40.0,Basic,298.23,31,E-wallet,No,No,No,4,0
+C100628,43.0,Basic,769.0,31,Card,Yes,Yes,No,1,0
+C100629,55.0,Premium,1637.1,33,E-wallet,No,Yes,No,4,1
+C100630,22.0,Basic,720.19,9,Card,Yes,No,No,2,0
+C100631,60.0,Standard,1206.8,18,E-wallet,No,Yes,Yes,3,0
+C100632,40.0,Basic,827.46,28,Card,Yes,Yes,No,1,0
+C100633,,Basic,496.73,23,Cash,No,No,No,3,0
+C100634,30.0,Premium,1498.43,31,Card,Yes,Yes,No,1,1
+C100635,22.0,Basic,509.49,27,Card,No,No,Yes,3,0
+C100636,52.0,Premium,1675.62,5,Bank transfer,No,Yes,Yes,1,1
+C100637,43.0,Basic,630.72,37,Card,Yes,No,No,2,0
+C100638,27.0,Standard,1002.12,17,Card,No,No,No,2,0
+C100639,26.0,Standard,,14,Cash,Yes,Yes,No,1,1
+C100640,38.0,Premium,1772.62,37,Cash,No,Yes,Yes,2,1
+C100641,62.0,Standard,866.37,30,Card,No,No,No,1,0
+C100642,39.0,Standard,1064.32,39,Cash,Yes,No,Yes,3,0
+C100643,24.0,Basic,879.45,25,Bank transfer,Yes,No,Yes,4,0
+C100644,39.0,Basic,833.02,18,Card,Yes,Yes,No,1,0
+C100645,39.0,Premium,1233.38,24,E-wallet,No,Yes,No,1,1
+C100646,18.0,Basic,,12,Bank transfer,Yes,No,Yes,2,0
+C100647,41.0,Basic,597.07,10,Cash,No,No,Yes,1,0
+C100648,39.0,Standard,1094.2,16,Card,No,No,Yes,4,1
+C100649,,Basic,403.6,45,Bank transfer,No,No,No,3,0
+C100650,64.0,Premium,1545.42,16,Card,Yes,No,No,3,1
+C100651,56.0,Standard,874.74,8,Card,No,No,No,2,0
+C100652,39.0,Standard,1000.9,20,Card,No,Yes,No,1,1
+C100653,29.0,Premium,,16,Cash,No,No,No,0,1
+C100654,73.0,Basic,753.32,37,E-wallet,Yes,No,Yes,2,0
+C100655,43.0,Basic,640.37,43,E-wallet,Yes,Yes,No,0,0
+C100656,42.0,Standard,1095.61,18,Bank transfer,Yes,No,No,4,1
+C100657,42.0,Basic,748.53,25,Card,No,No,Yes,2,0
+C100658,,Standard,1137.53,26,Card,Yes,No,Yes,0,0
+C100659,40.0,Premium,1762.48,21,Card,No,No,Yes,0,1
+C100660,,Premium ,792.25,19,Card,Yes,No,Yes,1,0
+C100661,35.0,Basic,803.62,13,E-wallet,No,Yes,No,1,0
+C100662,42.0,Premium,,7,Bank transfer,No,No,No,2,1
+C100663,35.0,Basic,256.81,13,Card,No,No,No,0,0
+C100664,33.0,Standard,1098.26,21,card,Yes,No,No,0,0
+C100665,43.0,Basic,799.83,9,Card,Yes,Yes,No,1,0
+C100666,39.0,Premium,1674.13,24,Card,Yes,Yes,No,2,1
+C100667,60.0,Standard,1152.93,23,Cash,Yes,No,Yes,1,1
+C100668,18.0,Standard,895.85,16,Bank transfer,No,No,No,4,0
+C100669,55.0,Premium,1338.65,19,E-wallet,No,No,No,2,1
+C100670,57.0,Basic,643.72,10,Bank transfer,No,No,Yes,3,0
+C100671,18.0,Basic,931.0,33,Card,Yes,No,Yes,2,1
+C100672,,Premium,1422.11,33,Card,No,No,No,2,1
+C100673,38.0,Basic,573.19,11,E-wallet,No,No,No,1,0
+C100674,25.0,Standard,1052.18,11,E-wallet,No,No,Yes,3,1
+C100675,33.0,Premium,1508.96,13,Card,Yes,No,No,2,1
+C100676,29.0,Standard,761.58,29,Bank transfer,No,No,No,3,0
+C100677,63.0,Standard,855.6,26,Bank transfer,No,No,No,1,0
+C100678,53.0,Premium,1181.47,36,Bank transfer,No,No,Yes,2,0
+C100679,57.0,Premium,1449.17,38,Cash,No,Yes,No,1,1
+C100680,51.0,Basic,640.18,9,Bank transfer,Yes,No,No,1,0
+C100681,28.0,Basic,1017.64,28,Bank transfer,Yes,Yes,Yes,0,0
+C100682,36.0,Basic,467.76,38,Card,No,No,No,3,0
+C100683,48.0,Standard,941.72,18,Card,No,No,No,5,0
+C100684,27.0,Standard,968.43,22,Card,Yes,No,Yes,2,0
+C100685,51.0,Standard,1073.18,20,Card,No,No,Yes,1,1
+C100686,39.0,Basic,598.46,21,E-wallet,No,Yes,Yes,0,0
+C100687,38.0,Standard,755.0,33,E-wallet,No,No,No,1,0
+C100688,51.0,Basic,807.54,49,Card,Yes,No,Yes,2,0
+C100689,47.0,Standard,1053.15,42,E-wallet,No,No,No,0,0
+C100690,38.0,Standard,1064.54,17,Card,No,Yes,No,1,1
+C100691,56.0,Basic,682.19,25,Card,No,No,Yes,2,0
+C100692,29.0,Basic,497.66,14,Card,No,No,No,1,0
+C100693,49.0,Standard,814.36,15,Card,No,No,No,5,0
+C100694,49.0,Standard,,21,Card,No,No,No,0,0
+C100695,38.0,Basic,881.29,15,Bank transfer,Yes,No,Yes,2,0
+C100696,46.0,Premium,1233.76,16,Card,No,No,No,0,1
+C100697,27.0,Standard,971.17,25,Cash,No,No,No,0,0
+C100698,53.0,Premium,1503.38,28,Card,Yes,No,No,0,1
+C100699,40.0,Basic,899.07,28,Card,No,Yes,Yes,2,0
+C100700,36.0,Standard,1015.33,28,Card,No,No,No,4,1
+C100701,55.0,Premium,1199.23,11,Bank transfer,No,No,No,2,1
+C100702,,Standard,1280.21,14,Card,Yes,Yes,Yes,4,1
+C100703,25.0,Standard,,22,E-wallet,No,Yes,No,2,0
+C100704,23.0,Basic,432.47,37,Bank transfer,Yes,No,No,2,0
+C100705,49.0,Basic,646.1,62,Bank transfer,Yes,Yes,No,1,0
+C100706,27.0,Basic,792.95,26,Bank transfer,No,No,No,3,0
+C100707,63.0,Basic,693.14,31,Card,No,Yes,No,3,0
+C100708,18.0,Basic,,10,Card,No,Yes,No,2,0
+C100709,62.0,Basic,869.49,31,Card,Yes,Yes,No,1,0
+C100710,45.0,Premium,,54,Bank transfer,No,Yes,No,3,1
+C100711,41.0,Basic,,14,Card,Yes,No,No,0,0
+C100712,35.0,Standard,970.61,16,Card,No,No,No,3,0
+C100713,47.0,Premium,1572.5,33,Cash,No,Yes,No,2,1
+C100714,42.0,Standard,830.72,22,Card,No,No,No,1,0
+C100715,55.0,Basic,468.8,6,E-wallet,Yes,No,No,3,0
+C100716,43.0,Standard,,17,E-wallet,Yes,No,Yes,2,1
+C100717,44.0,Standard,1063.06,43,Card,No,No,Yes,2,0
+C100718,38.0,Standard,1010.91,19,Card,Yes,No,No,3,1
+C100719,41.0,Standard,1093.6,19,Card,No,No,Yes,2,1
+C100720,46.0,Premium,1550.87,32,Bank transfer,No,No,Yes,1,1
+C100721,21.0,Standard,1184.73,26,Bank transfer,Yes,Yes,No,0,1
+C100722,26.0,Basic,834.43,18,E-wallet,No,No,Yes,3,1
+C100723,51.0,Standard,1065.05,16,Cash,No,No,Yes,1,1
+C100724,44.0,Basic,510.47,72,Bank transfer,Yes,No,No,2,0
+C100725,40.0,Premium,1530.6,40,Card,Yes,No,No,2,1
+C100726,42.0,Basic,594.27,28,Card,Yes,No,No,4,0
+C100727,,Basic,,29,E-wallet,No,Yes,No,1,0
+C100728,36.0,Premium,1540.53,21,Card,No,No,No,1,1
+C100729,33.0,Standard,1062.9,26,Card,Yes,No,No,2,1
+C100730,44.0,Basic,496.55,19,E-wallet,Yes,No,No,3,0
+C100731,30.0,Standard,932.89,14,Card,No,No,Yes,1,0
+C100732,47.0,basic,1581.81,26,Cash,No,No,Yes,1,1
+C100733,22.0,Basic,660.36,19,Bank transfer,No,Yes,No,2,0
+C100734,54.0,Premium,1505.05,27,Card,Yes,No,No,1,1
+C100735,48.0,Basic,,30,Cash,Yes,No,No,2,0
+C100736,45.0,Standard,828.86,28,Card,No,No,No,2,0
+C100737,54.0,Premium,1517.19,13,card,No,Yes,No,1,1
+C100738,62.0,Basic,364.07,18,Card,Yes,No,No,1,0
+C100739,54.0,Basic,367.84,19,Card,No,No,No,2,0
+C100740,20.0,Basic,604.75,35,Bank transfer,No,No,Yes,1,0
+C100741,,Standard,1044.9,34,Card,No,No,No,1,1
+C100742,35.0,Standard,,15,Card,Yes,No,Yes,3,1
+C100743,42.0,Standard,1041.66,10,Card,No,Yes,No,3,1
+C100744,48.0,Basic,647.19,63,E-wallet,No,Yes,No,2,0
+C100745,33.0,Basic,655.75,27,E-wallet,No,No,No,1,0
+C100746,44.0,Basic,801.51,10,Card,Yes,No,No,3,0
+C100747,33.0,Basic,763.1,16,Card,Yes,Yes,No,5,0
+C100748,,Standard,1112.94,36,Card,Yes,Yes,No,1,0
+C100749,25.0,Premium,1440.34,56,Card,No,Yes,No,1,1
+C100750,,Standard,1021.07,51,E-wallet,Yes,No,No,2,0
+C100751,26.0,Basic,567.92,27,E-wallet,No,Yes,No,2,0
+C100752,30.0,Premium,-113.29,22,Card,Yes,No,No,0,1
+C100753,55.0,Standard,1130.44,12,Card,No,No,Yes,3,1
+C100754,31.0,Premium,50726.95,23,Card,No,Yes,No,3,1
+C100755,74.0,Standard,1201.11,13,Bank transfer,Yes,No,No,0,1
+C100756,48.0,Basic,993.54,18,Card,Yes,Yes,No,0,0
+C100757,44.0,Basic,664.96,33,Cash,Yes,No,No,2,0
+C100758,,Standard,,19,E-wallet,No,Yes,No,2,1
+C100759,50.0,Basic,457.8,19,Card,No,No,No,3,0
+C100760,35.0,Basic,792.2,21,Bank transfer,Yes,No,No,1,0
+C100761,43.0,Standard,1147.38,68,Cash,No,Yes,No,2,0
+C100762,73.0,Standard,1471.01,12,Bank transfer,Yes,Yes,Yes,2,1
+C100763,41.0,Standard,,25,Card,Yes,No,No,2,0
+C100764,56.0,Basic,869.8,49,Card,Yes,Yes,Yes,1,0
+C100765,34.0,Basic,512.66,21,E wallet,No,No,Yes,3,0
+C100766,42.0,Standard,1045.2,39,Bank transfer,Yes,No,No,0,1
+C100767,63.0,Premium,1913.96,10,Bank transfer,Yes,No,Yes,0,1
+C100768,34.0,Standard,1012.82,20,E-wallet,Yes,No,No,3,1
+C100769,,Premium,1644.22,14,E-wallet,Yes,No,No,2,1
+C100770,50.0,Standard,,21,Bank Transfer ,No,No,No,2,0
+C100771,35.0,Standard,1015.96,22,Card,Yes,No,No,1,0
+C100772,50.0,Basic,1107.96,23,Bank Transfer ,Yes,Yes,Yes,1,1
+C100773,54.0,Standard,670.96,33,E-wallet,No,Yes,No,1,0
+C100774,49.0,Standard,1083.27,5,Bank Transfer ,Yes,No,Yes,3,0
+C100775,23.0,Standard,790.12,16,Bank transfer,No,No,No,1,0
+C100776,33.0,Standard,801.63,25,Card,No,No,No,3,0
+C100777,39.0,Standard,1210.35,7,card,Yes,Yes,No,1,1
+C100778,41.0,Basic,534.8,30,E-wallet,No,No,No,2,0
+C100779,49.0,Standard,1217.28,16,Card,Yes,Yes,No,1,1
+C100780,44.0,Basic,691.53,20,Bank transfer,No,Yes,No,0,0
+C100781,,Premium,1285.99,34,Card,No,No,No,2,1
+C100782,47.0,Basic,803.82,40,Card,Yes,Yes,Yes,0,0
+C100783,49.0,Standart,547.56,30,Card,No,No,No,1,0
+C100784,49.0,Basic,424.37,11,Card,No,No,No,1,0
+C100785,55.0,Standard,-453.42,30,Bank transfer,No,No,No,2,0
+C100786,52.0,Basic,796.56,31,Bank transfer,No,No,Yes,1,0
+C100787,48.0,Basic,787.41,28,Bank transfer,No,Yes,No,0,0
+C100788,41.0,Standard,1356.86,43,E-wallet,Yes,Yes,No,0,1
+C100789,22.0,Basic,,23,Card,Yes,No,Yes,6,0
+C100790,47.0,Premium,1475.11,43,Card,No,No,No,1,1
+C100791,44.0,Premium,1714.38,42,E-wallet,Yes,No,No,4,1
+C100792,45.0,Standard,943.03,31,Card,No,Yes,No,3,0
+C100793,27.0,Basic,783.28,26,Cash,Yes,No,No,3,0
+C100794,29.0,Standard,1083.05,28,E-wallet,Yes,No,No,3,1
+C100795,55.0,Basic,,48,Bank transfer,Yes,No,Yes,3,0
+C100796,42.0,Standard,922.33,37,Cash,No,No,No,1,0
+C100797,50.0,Basic,955.55,12,Card,No,Yes,Yes,0,0
+C100798,42.0,Premium,1546.82,27,Card,No,Yes,No,1,1
+C100799,42.0,Premium ,651.92,14,Bank transfer,Yes,No,Yes,1,0
+C100800,53.0,Standard,1254.23,15,Card,No,No,Yes,0,1
+C100801,36.0,Standard,1056.3,18,Cash,Yes,Yes,No,1,1
+C100802,43.0,Standard,1230.37,9,Card,No,No,Yes,3,1
+C100803,36.0,Basic,789.17,13,Bank transfer,No,Yes,Yes,0,0
+C100804,37.0,Premium,1811.12,44,Bank transfer,Yes,Yes,No,0,1
+C100805,38.0,Standard,1336.17,15,Bank transfer,No,Yes,Yes,2,1
+C100806,,Standard,1251.62,33,Bank Transfer ,No,Yes,Yes,1,1
+C100807,36.0,Basic,,24,Card,Yes,No,No,4,0
+C100808,57.0,Standard,950.72,29,E-wallet,No,No,No,0,0
+C100809,31.0,Basic,378.34,30,Card,No,Yes,No,2,0
+C100810,,Basic,784.2,13,E-wallet,Yes,Yes,No,4,0
+C100811,37.0,Basic,516.07,33,Bank transfer,Yes,No,No,2,0
+C100812,59.0,Premium,1540.54,11,E-wallet,No,Yes,No,4,1
+C100813,44.0,Basic,362.85,15,E-wallet,No,No,No,1,0
+C100814,54.0,Basic,657.81,29,Card,No,Yes,Yes,2,0
+C100815,24.0,Standard,1092.59,12,Bank transfer,No,No,No,0,1
+C100816,45.0,Standard,1148.33,6,E-wallet,No,Yes,No,2,1
+C100817,53.0,Basic,619.5,26,Card,No,Yes,No,2,0
+C100818,43.0,Standard,1222.17,8,Cash,No,Yes,Yes,4,1
+C100819,55.0,Basic,770.25,31,Bank transfer,No,Yes,Yes,1,0
+C100820,36.0,Basic,718.39,19,Card,Yes,No,No,5,0
+C100821,59.0,Basic,748.87,26,Card,Yes,No,Yes,1,0
+C100822,70.0,Premium,1789.25,26,Cash,Yes,Yes,No,0,1
+C100823,38.0,Basic,589.63,32,Card,No,Yes,No,3,0
+C100824,37.0,Basic,449.62,30,E-wallet,No,No,No,1,0
+C100825,,Basic,832.61,12,E-wallet,Yes,No,Yes,2,0
+C100826,61.0,Premium,1479.06,19,Card,Yes,No,No,5,1
+C100827,36.0,Basic,539.44,26,Card,No,No,No,0,0
+C100828,37.0,Basic,585.52,43,E-wallet,Yes,No,No,1,0
+C100829,39.0,Basic,736.22,30,Card,No,No,Yes,2,0
+C100830,26.0,Basic,825.92,41,E-wallet,No,No,Yes,0,0
+C100831,31.0,Standard,813.68,27,Card,No,No,No,0,0
+C100832,30.0,Standard,1334.33,37,Bank transfer,Yes,Yes,Yes,4,1
+C100833,33.0,Basic,825.36,25,E-wallet,Yes,Yes,No,1,0
+C100834,,Basic,567.7,36,Card,No,Yes,No,3,0
+C100835,45.0,Basic,555.72,18,Card,No,No,No,1,0
+C100836,61.0,Basic,566.65,45,Card,No,No,No,0,0
+C100837,30.0,Basic,959.99,28,Card,Yes,No,Yes,2,1
+C100838,54.0,Standard,1127.28,10,Bank transfer,No,Yes,Yes,4,1
+C100839,39.0,Premium,1466.87,27,E-wallet,No,No,Yes,4,1
+C100840,41.0,Premium,1363.09,30,Card,No,No,No,1,1
+C100841,50.0,Premium,1403.87,34,Bank transfer,No,Yes,No,3,1
+C100842,,Standard,1297.74,53,Bank transfer,Yes,No,Yes,1,1
+C100843,47.0,Standard,910.59,17,Card,Yes,No,No,1,1
+C100844,44.0,Basic,779.96,53,Card,No,No,No,1,0
+C100845,48.0,Standard,1055.51,22,Cash,No,No,No,2,1
+C100846,45.0,Standard,,15,E-wallet,Yes,No,Yes,3,0
+C100847,71.0,Standard,1334.09,17,Bank transfer,Yes,No,Yes,3,1
+C100848,34.0,Standard,883.58,29,Bank transfer,No,No,Yes,0,0
+C100849,36.0,Basic,,13,Card,Yes,No,No,0,1
+C100850,35.0,Basic,879.17,18,Bank transfer,Yes,Yes,Yes,0,0
+C100851,35.0,Premium,1385.54,26,Bank transfer,No,No,No,1,1
+C100852,34.0,Basic,397.29,45,Bank transfer,No,Yes,No,2,0
+C100853,56.0,Standard,958.35,33,Card,No,No,No,2,0
+C100854,,Premium,1417.24,23,Card,Yes,No,No,3,1
+C100855,35.0,Standard,1092.2,29,Card,No,No,Yes,3,0
+C100856,32.0,Standard,834.69,25,Cash,No,No,No,3,0
+C100857,48.0,Basic,490.67,11,Card,No,Yes,No,4,0
+C100858,35.0,Basic,403.48,49,Bank transfer,No,No,No,2,0
+C100859,50.0,Premium,1697.09,45,Card,Yes,Yes,No,1,1
+C100860,44.0,Standard,1016.22,21,Card,Yes,Yes,No,2,0
+C100861,24.0,Standard,1140.14,17,E-wallet,Yes,No,Yes,1,0
+C100862,61.0,Basic,1029.59,11,Bank transfer,Yes,Yes,Yes,2,0
+C100863,64.0,Basic,992.3,30,Bank transfer,No,No,Yes,0,0
+C100864,35.0,Premium,1457.31,30,Card,No,No,No,1,1
+C100865,37.0,Basic,569.93,14,E-wallet,No,No,Yes,1,0
+C100866,45.0,Standard,855.95,25,Card,No,No,No,0,0
+C100867,46.0,Basic,773.79,33,Card,Yes,Yes,No,0,0
+C100868,50.0,Standard,978.07,17,Bank transfer,No,Yes,No,2,0
+C100869,66.0,Premium,1658.37,20,Card,Yes,No,No,1,1
+C100870,40.0,Standard,1076.1,20,Card,Yes,No,No,7,1
+C100871,32.0,Basic,938.94,14,Bank transfer,Yes,No,Yes,1,0
+C100872,25.0,Standard,1042.27,20,Bank transfer,No,No,Yes,1,0
+C100873,33.0,Standard,1179.06,9,E-wallet,No,Yes,No,1,1
+C100874,,Basic,810.02,19,Card,Yes,No,Yes,1,0
+C100875,,Premium,1613.46,19,Card,Yes,No,Yes,4,1
+C100876,36.0,Standard,1281.28,21,Card,No,Yes,No,2,1
+C100877,45.0,Premium,1631.0,28,Cash,Yes,Yes,Yes,0,1
+C100878,42.0,Standard,931.35,11,Bank transfer,No,Yes,No,1,0
+C100879,56.0,Basic,544.76,12,E-wallet,No,Yes,No,1,0
+C100880,72.0,Basic,801.0,14,Card,No,No,No,0,0
+C100881,36.0,Basic,836.82,10,Bank transfer,No,Yes,No,1,0
+C100882,36.0,Premium,,30,Card,No,Yes,No,4,1
+C100883,55.0,Standard,1160.32,16,Bank transfer,No,Yes,Yes,1,0
+C100884,50.0,Standard,1371.14,22,Cash,No,No,Yes,2,1
+C100885,64.0,Basic,544.2,14,Cash,No,No,No,4,0
+C100886,49.0,Basic,887.27,18,Bank transfer,Yes,Yes,No,2,0
+C100887,38.0,Standard,1041.56,26,Bank transfer,No,Yes,No,1,0
+C100888,,Standard,,26,Cash,No,Yes,No,2,0
+C100889,55.0,Basic,649.79,12,Bank transfer,No,No,Yes,5,0
+C100890,52.0,Standard,994.84,21,Card,No,Yes,No,1,0
+C100891,48.0,Basic,573.02,14,Bank transfer,No,No,No,1,0
+C100892,55.0,Basic,694.06,21,Card,Yes,No,No,2,0
+C100893,56.0,Standard,896.22,15,Bank transfer,No,No,No,1,0
+C100894,59.0,Basic,801.14,50,Bank transfer,No,Yes,No,5,0
+C100895,50.0,Premium,1043.99,33,Bank transfer,No,No,No,2,0
+C100896,40.0,Basic,561.19,27,Card,No,No,No,0,0
+C100897,44.0,Basic,1036.13,19,Card,Yes,Yes,Yes,1,0
+C100898,56.0,Basic,637.64,33,Bank transfer,No,No,No,2,0
+C100899,32.0,Standard,1342.22,21,E-wallet,Yes,Yes,Yes,1,0
+C100900,46.0,Basic,974.95,48,Bank transfer,Yes,Yes,Yes,2,0
+C100901,37.0,Standard,1138.31,35,Card,No,Yes,No,1,1
+C100902,42.0,Basic,,18,Cash,Yes,No,No,0,0
+C100903,57.0,Basic,643.94,45,Cash,No,No,Yes,0,0
+C100904,44.0,Basic,682.04,19,Card,Yes,No,No,4,0
+C100905,43.0,Premium,2051.43,52,Card,Yes,Yes,Yes,1,1
+C100906,26.0,Premium,1145.12,46,E-wallet,No,No,No,2,1
+C100907,51.0,Basic,537.2,26,E-wallet,No,Yes,No,1,0
+C100908,50.0,Standard,1075.9,9,Cash,No,No,No,1,1
+C100909,68.0,Premium,1651.1,25,E-wallet,No,Yes,No,1,1
+C100910,38.0,Basic,682.69,12,Bank transfer,No,Yes,No,1,0
+C100911,45.0,Premium,1496.17,16,Bank transfer,Yes,No,No,3,1
+C100912,45.0,Basic,664.18,16,Card,Yes,Yes,No,1,0
+C100913,61.0,Premium,1479.05,12,Card,Yes,No,No,3,1
+C100914,,Standart,1085.76,25,Bank transfer,No,No,No,1,0
+C100915,45.0,Premium,1324.59,15,Bank transfer,No,No,No,2,1
+C100916,49.0,Standard,912.17,19,Bank transfer,No,No,No,1,0
+C100917,44.0,Basic,589.56,16,E-wallet,No,No,Yes,3,0
+C100918,37.0,Premium,1801.13,28,Card,No,Yes,Yes,2,1
+C100919,44.0,Basic,585.35,27,Bank transfer,Yes,No,No,1,0
+C100920,55.0,Basic,638.29,19,Card,Yes,No,No,3,0
+C100921,30.0,Standard,817.99,29,Card,No,Yes,No,2,0
+C100922,,Standard,826.4,39,E-wallet,No,Yes,No,1,0
+C100923,,Premium,1400.92,6,Bank transfer,No,No,No,3,1
+C100924,56.0,Basic,670.98,16,Cash,Yes,No,Yes,0,0
+C100925,24.0,Standard,1152.61,13,Card,No,No,No,4,0
+C100926,35.0,Standard,922.62,15,Bank transfer,Yes,Yes,No,1,0
+C100927,47.0,Basic,553.98,5,Card,Yes,No,No,3,0
+C100928,61.0,Basic,622.0,6,Card,No,Yes,No,0,0
+C100929,41.0,Basic,786.18,3,E-wallet,Yes,No,Yes,1,0
+C100930,35.0,Basic,367.5,17,Bank transfer,No,No,No,4,0
+C100931,65.0,Premium,1555.05,16,E-wallet,Yes,Yes,No,2,1
+C100932,25.0,Standard,961.12,42,Card,No,No,Yes,3,0
+C100933,18.0,Standard,865.59,24,E-wallet,No,No,No,2,0
+C100934,47.0,Premium,1784.23,5,Card,Yes,No,No,5,1
+C100935,,Basic,509.35,28,E-wallet,No,No,No,4,0
+C100936,30.0,Premium,1871.95,72,Card,Yes,No,Yes,2,1
+C100937,51.0,Basic,560.84,6,Card,No,No,No,1,0
+C100938,45.0,Premium,1803.66,48,Bank transfer,Yes,Yes,No,2,1
+C100939,35.0,Basic,434.0,21,Cash,Yes,Yes,No,3,0
+C100940,27.0,Premium,1633.47,17,Card,Yes,Yes,No,2,1
+C100941,,Basic,806.86,16,Card,Yes,No,No,3,0
+C100942,50.0,Basic,431.39,26,E-wallet,No,No,No,2,0
+C100943,41.0,Standard,1381.5,18,Card,Yes,Yes,No,1,1
+C100944,64.0,Basic,828.07,11,Card,Yes,No,No,1,0
+C100945,29.0,Standard,1023.7,16,Card,No,No,Yes,2,1
+C100946,24.0,Basic,769.62,26,Card,Yes,No,Yes,2,0
+C100947,34.0,Standard,958.37,31,Cash,No,No,Yes,1,0
+C100948,41.0,Basic,604.45,51,E-wallet,No,No,Yes,1,0
+C100949,45.0,Basic,652.09,23,Bank transfer,No,Yes,Yes,3,0
+C100950,39.0,Basic,851.46,40,Cash,No,Yes,Yes,4,0
+C100951,46.0,Standard,905.27,20,E wallet,No,No,Yes,1,0
+C100952,27.0,Basic,842.45,21,Card,Yes,Yes,No,0,0
+C100953,59.0,Basic,875.37,21,Card,No,Yes,Yes,1,0
+C100954,41.0,Basic,300.66,25,Card,No,No,No,0,0
+C100955,55.0,Basic,985.98,34,Card,No,Yes,Yes,1,0
+C100956,46.0,Standard,961.63,17,Cash,No,No,No,2,0
+C100957,47.0,Premium,1609.96,13,E-wallet,No,Yes,No,3,1
+C100958,49.0,Basic,408.96,35,Card,No,No,No,2,0
+C100959,47.0,Premium ,1094.69,34,Bank transfer,No,Yes,No,0,1
+C100960,50.0,Standard,1335.17,44,E-wallet,No,Yes,Yes,1,1
+C100961,58.0,Basic,488.17,16,Cash,No,No,No,1,0
+C100962,44.0,Standard,1290.23,19,E-wallet,Yes,No,No,0,1
+C100963,51.0,Basic,505.29,36,Bank transfer,No,No,No,4,0
+C100964,41.0,Standard,1036.89,17,E-wallet,No,No,No,1,1
+C100965,59.0,Basic,805.16,30,Bank transfer,Yes,Yes,No,2,0
+C100966,34.0,Standard,1120.26,20,Bank transfer,Yes,No,No,0,1
+C100967,64.0,Standard,879.44,26,Card,No,No,Yes,4,0
+C100968,42.0,Basic,694.53,11,Card,Yes,No,No,0,0
+C100969,25.0,Basic,,23,Bank transfer,Yes,Yes,Yes,1,0
+C100970,,Premium,1298.43,2,Card,No,No,No,2,1
+C100971,34.0,Basic,1039.29,39,Card,Yes,No,Yes,3,0
+C100972,52.0,Standard,1174.35,32,E-wallet,No,Yes,Yes,1,1
+C100973,34.0,Premium,1429.6,13,Card,Yes,No,No,2,1
+C100974,37.0,Standard,1126.9,49,Bank transfer,Yes,Yes,No,4,0
+C100975,19.0,Standard,743.95,38,Bank transfer,No,No,No,6,0
+C100976,37.0,Standard,1252.07,12,Cash,No,No,Yes,0,1
+C100977,18.0,Premium,1646.52,16,Bank transfer,Yes,No,Yes,1,1
+C100978,23.0,Standard,1113.52,12,Card,Yes,No,No,1,1
+C100979,51.0,Standard,1182.73,26,Bank transfer,No,Yes,No,1,1
+C100980,,Basic,589.98,16,E-wallet,Yes,No,No,0,0
+C100981,47.0,Premium,1613.84,7,Cash,Yes,No,No,0,1
+C100982,30.0,Standard,1046.39,21,Card,Yes,Yes,No,2,0
+C100983,41.0,Basic,793.49,34,Card,No,No,No,3,0
+C100984,42.0,Premium,1512.37,23,Cash,No,No,No,4,1
+C100985,28.0,Standard,996.89,29,Card,No,Yes,No,4,0
+C100986,60.0,Basic,,24,Bank transfer,No,Yes,No,2,0
+C100987,53.0,basic,1006.32,32,Card,No,Yes,No,1,1
+C100988,39.0,Basic,459.2,25,Card,No,No,No,0,0
+C100989,42.0,Premium,1634.35,21,Card,No,No,No,3,1
+C100990,45.0,Basic,682.94,23,Card,Yes,No,Yes,2,0
+C100991,18.0,Premium,1596.18,44,Bank transfer,No,No,Yes,4,1
+C100992,39.0,Standard,897.8,30,Cash,No,No,No,2,0
+C100993,34.0,Basic,665.91,13,Card,No,No,Yes,5,0
+C100994,30.0,Premium,1836.97,23,E-wallet,Yes,Yes,Yes,2,1
+C100995,39.0,Standard,1036.07,26,Card,Yes,No,No,2,1
+C100996,64.0,Basic,,20,Bank transfer,No,No,No,0,0
+C100997,,Standard,973.08,7,Card,No,No,No,3,0
+C100998,35.0,Premium,1450.27,14,Cash,No,No,No,1,1
+C100999,49.0,Basic,285.92,18,E-wallet,Yes,No,No,1,0
+C101000,59.0,Basic,535.98,52,Bank transfer,No,No,No,2,0
+C101001,53.0,Basic,421.32,28,E-wallet,No,Yes,No,0,0
+C101002,43.0,Basic,577.56,9,Bank transfer,No,No,No,1,0
+C101003,34.0,Standard,1196.94,21,Cash,No,Yes,No,1,1
+C101004,50.0,Standard,788.85,41,E-wallet,No,No,No,1,0
+C101005,47.0,Basic,768.59,16,Cash,No,Yes,Yes,3,0
+C101006,,Basic,728.08,36,Bank transfer,No,Yes,Yes,2,0
+C101007,50.0,Basic,768.25,9,Card,No,Yes,No,1,0
+C101008,55.0,Premium,,3,Bank transfer,Yes,No,Yes,2,1
+C101009,36.0,Basic,977.4,39,Card,Yes,Yes,No,3,0
+C101010,58.0,Premium,1449.65,17,Bank transfer,No,No,No,1,1
+C101011,44.0,Standard,929.09,7,Bank transfer,No,No,No,0,0
+C101012,67.0,Basic,628.18,18,Bank transfer,No,Yes,No,1,0
+C101013,34.0,Premium,1618.16,24,Card,No,Yes,No,0,1
+C101014,63.0,Standard,1021.48,28,Card,Yes,No,Yes,1,0
+C101015,44.0,Standard,910.24,4,Bank transfer,No,No,No,1,0
+C101016,34.0,Premium,,15,Cash,No,No,No,1,0
+C101017,36.0,Basic,737.05,23,E wallet,Yes,No,No,2,0
+C101018,38.0,Basic,747.48,28,Card,Yes,Yes,No,2,0
+C101019,47.0,Standard,1075.35,13,E-wallet,No,Yes,Yes,1,1
+C101020,48.0,Basic,950.88,20,Bank transfer,Yes,Yes,Yes,2,0
+C101021,35.0,Basic,550.06,16,Card,No,No,Yes,0,0
+C101022,42.0,Basic,418.97,25,Card,Yes,No,No,0,0
+C101023,68.0,Basic,587.25,38,Card,No,No,No,5,0
+C101024,63.0,Standard,1089.49,18,Cash,No,Yes,No,0,1
+C101025,47.0,Basic,676.05,10,Card,No,Yes,No,0,0
+C101026,42.0,Standard,1176.35,15,Card,No,Yes,No,1,1
+C101027,43.0,Standard,820.2,49,Card,No,No,No,0,0
+C101028,49.0,Basic,778.27,14,Card,Yes,Yes,Yes,1,0
+C101029,30.0,Basic,821.6,11,E-wallet,Yes,No,Yes,1,0
+C101030,39.0,Standard,858.3,18,Card,No,No,No,3,0
+C101031,22.0,Basic,398.92,21,Card,No,No,No,1,0
+C101032,47.0,Standard,890.42,16,Bank transfer,No,No,No,1,0
+C101033,50.0,Premium,1476.61,9,Card,Yes,No,No,3,1
+C101034,36.0,Basic,429.68,26,Card,Yes,No,No,2,0
+C101035,61.0,Standard,1177.06,25,E-wallet,Yes,No,Yes,3,1
+C101036,27.0,Standard,943.63,31,E-wallet,No,No,Yes,1,0
+C101037,24.0,Basic,527.8,24,Cash,No,No,No,0,0
+C101038,45.0,Premium,1321.28,47,E-wallet,No,No,No,0,1
+C101039,55.0,Premium,1713.4,32,Bank transfer,No,No,Yes,1,1
+C101040,62.0,Basic,1022.46,29,Card,Yes,No,Yes,5,0
+C101041,36.0,Standard,1311.53,39,E-wallet,Yes,No,Yes,1,1
+C101042,55.0,Premium,1363.88,24,E-wallet,Yes,No,No,4,1
+C101043,42.0,Premium,1700.62,20,E-wallet,No,Yes,No,1,1
+C101044,40.0,Standard,1539.09,26,Bank transfer,Yes,Yes,Yes,0,1
+C101045,53.0,Standard,1082.25,6,Card,No,No,Yes,3,0
+C101046,50.0,Basic,988.75,24,E-wallet,Yes,No,Yes,3,0
+C101047,23.0,Premium,1333.8,21,E-wallet,No,No,No,2,1
+C101048,60.0,Basic,456.05,27,Cash,No,No,Yes,2,0
+C101049,59.0,Standard,808.77,36,Card,No,No,No,1,0
+C101050,34.0,Basic,887.52,29,Card,No,No,Yes,3,0
+C101051,47.0,Basic,621.07,15,Card,No,Yes,Yes,4,0
+C101052,,Basic,649.94,33,E-wallet,Yes,No,No,2,0
+C101053,45.0,Premium,1404.1,47,Card,No,No,No,1,1
+C101054,35.0,Basic,738.44,37,Card,No,Yes,Yes,2,0
+C101055,34.0,Standard,996.78,10,Cash,Yes,No,No,2,0
+C101056,,Basic,658.67,29,Card,Yes,No,No,3,0
+C101057,56.0,Basic,552.54,11,E-wallet,No,Yes,No,0,0
+C101058,49.0,Basic,449.35,19,Card,No,Yes,No,0,0
+C101059,38.0,Standard,925.8,27,E-wallet,No,No,No,3,0
+C101060,51.0,Basic,628.8,25,Bank transfer,No,No,No,1,0
+C101061,18.0,Basic,1054.35,36,Cash,Yes,Yes,Yes,2,0
+C101062,56.0,Basic,,47,Cash,Yes,Yes,No,1,0
+C101063,21.0,Basic,349.85,28,Card,No,No,No,1,0
+C101064,38.0,Premium,1695.9,18,Card,Yes,No,Yes,0,1
+C101065,29.0,Premium,,7,Card,No,No,Yes,1,1
+C101066,26.0,Basic,877.47,41,Bank transfer,No,Yes,Yes,1,0
+C101067,56.0,Standard,1134.48,21,E-wallet,Yes,No,No,2,0
+C101068,36.0,Premium,1506.78,22,Bank transfer,No,No,No,2,1
+C101069,46.0,Basic,,22,Bank transfer,Yes,Yes,No,3,0
+C101070,,Premium,1594.47,27,Card,No,No,Yes,1,1
+C101071,48.0,Premium,1629.48,28,E-wallet,Yes,No,No,2,1
+C101072,,Basic,434.46,19,Cash,No,No,No,2,0
+C101073,27.0,Basic,480.26,21,Card,Yes,No,No,2,0
+C101074,54.0,Premium,1606.76,16,Bank transfer,No,Yes,No,1,1
+C101075,36.0,Standard,1048.53,15,Card,No,No,No,4,1
+C101076,23.0,Basic,515.81,15,Bank transfer,Yes,No,No,1,0
+C101077,37.0,Basic,598.63,21,Bank transfer,No,No,No,0,0
+C101078,60.0,Basic,971.69,13,Card,Yes,Yes,No,1,1
+C101079,52.0,Standard,899.73,3,Card,No,No,No,1,0
+C101080,38.0,Standard,1071.84,18,Card,Yes,Yes,No,3,1
+C101081,38.0,Premium,1594.76,11,Bank transfer,No,No,Yes,1,1
+C101082,38.0,Basic,883.94,23,Bank transfer,Yes,Yes,Yes,4,0
+C101083,67.0,Standard,1005.99,16,Card,No,No,Yes,3,0
+C101084,47.0,Standard,1221.98,28,E-wallet,Yes,Yes,No,1,1
+C101085,47.0,Basic,427.55,11,E-wallet,No,Yes,No,2,0
+C101086,54.0,Basic,,7,Card,Yes,No,Yes,1,0
+C101087,45.0,Premium,1582.31,21,Card,No,No,Yes,3,1
+C101088,,Premium,1397.32,18,E-wallet,No,No,No,3,1
+C101089,40.0,Standard,1091.23,10,Cash,Yes,No,No,1,0
+C101090,41.0,Standard,1245.03,32,Card,No,Yes,No,2,1
+C101091,42.0,Basic,662.54,12,Card,Yes,No,No,1,0
+C101092,51.0,Standard,1121.78,14,Card,Yes,No,No,4,1
+C101093,,Standard,902.94,35,Bank transfer,No,Yes,No,1,0
+C101094,51.0,Standard,992.15,28,Card,No,No,No,1,1
+C101095,41.0,Premium,1516.83,12,Card,No,No,Yes,2,1
+C101096,43.0,Standard,1058.57,18,Bank transfer,Yes,No,No,2,1
+C101097,18.0,Basic,636.94,11,Bank transfer,Yes,No,No,3,0
+C101098,53.0,Standard,1173.96,34,Card,Yes,No,No,2,1
+C101099,46.0,Basic,462.8,34,Card,No,Yes,No,1,0
+C101100,54.0,Basic,346.01,50,Bank transfer,No,Yes,No,3,0
+C101101,18.0,Basic,654.39,60,Card,No,No,Yes,1,0
+C101102,67.0,Basic,826.22,16,Card,Yes,Yes,No,1,0
+C101103,40.0,Standard,,31,E-wallet,Yes,Yes,Yes,1,1
+C101104,55.0,Standard,1377.86,7,Card,Yes,No,Yes,4,1
+C101105,30.0,Standard,,24,E-wallet,Yes,No,Yes,0,1
+C101106,49.0,Standard,1102.34,27,Cash,Yes,Yes,No,2,1
+C101107,29.0,Basic,250.0,13,Card,No,No,No,4,0
+C101108,35.0,Premium,1371.52,15,Card,No,No,No,0,1
+C101109,65.0,Basic,743.36,34,Bank transfer,No,Yes,No,2,0
+C101110,40.0,Basic,452.95,28,E-wallet,No,No,No,2,0
+C101111,45.0,Standard,1053.4,47,Cash,Yes,No,No,1,0
+C101112,52.0,Basic,550.56,45,E-wallet,No,No,No,0,0
+C101113,48.0,Basic,528.16,8,Card,Yes,No,No,1,0
+C101114,44.0,Standard,1094.79,17,Bank transfer,No,Yes,No,1,0
+C101115,46.0,Standard,1096.45,12,Card,No,No,No,1,0
+C101116,71.0,Basic,629.26,32,Bank transfer,Yes,No,No,1,0
+C101117,41.0,Premium,1264.51,25,Card,No,No,No,0,1
+C101118,44.0,Standard,1222.01,12,Card,Yes,No,Yes,3,1
+C101119,55.0,Premium,1313.07,14,E-wallet,No,No,Yes,1,1
+C101120,55.0,Basic,660.43,40,Bank transfer,No,Yes,No,2,0
+C101121,56.0,Standard,1224.27,18,Card,Yes,Yes,No,1,1
+C101122,50.0,Premium,1901.08,6,Card,No,Yes,Yes,1,1
+C101123,28.0,Standard,876.72,12,E-wallet,No,No,No,0,0
+C101124,,Standard,1249.02,52,E-wallet,No,Yes,Yes,2,1
+C101125,28.0,Basic,546.65,36,Card,Yes,No,No,4,0
+C101126,46.0,Basic,577.23,11,Card,No,Yes,No,4,0
+C101127,33.0,Standard,866.98,24,Card,Yes,No,No,2,0
+C101128,41.0,Basic,926.63,35,Cash,Yes,Yes,Yes,0,0
+C101129,46.0,Premium,1693.36,8,Bank transfer,Yes,No,Yes,2,1
+C101130,46.0,Basic,685.9,37,Bank transfer,Yes,No,No,2,0
+C101131,47.0,Premium,1655.17,27,Bank transfer,Yes,No,Yes,3,1
+C101132,61.0,Premium,1410.0,15,Card,No,No,No,3,1
+C101133,47.0,Basic,609.99,30,E-wallet,Yes,No,No,3,0
+C101134,39.0,Basic,790.22,26,Bank transfer,Yes,No,Yes,1,0
+C101135,54.0,Premium,44094.5,26,Card,Yes,Yes,Yes,2,1
+C101136,,Premium,1524.86,24,Card,No,Yes,No,2,1
+C101137,27.0,Basic,771.34,13,Bank transfer,No,No,Yes,0,0
+C101138,49.0,Basic,,15,Cash,Yes,No,Yes,3,0
+C101139,50.0,Standard,1008.01,19,Card,Yes,No,No,3,0
+C101140,38.0,Standard,1148.3,23,E-wallet,Yes,Yes,No,2,1
+C101141,59.0,Basic,564.24,31,E-wallet,Yes,No,No,1,0
+C101142,40.0,Standard,1306.81,53,Card,Yes,Yes,Yes,1,1
+C101143,44.0,Basic,863.74,25,Card,No,Yes,No,1,0
+C101144,40.0,Basic,660.48,30,Card,Yes,Yes,No,0,0
+C101145,42.0,Basic,586.56,34,E-wallet,No,Yes,No,0,0
+C101146,,Basic,723.5,31,Card,Yes,Yes,No,4,0
+C101147,25.0,Basic,470.34,13,Card,No,No,No,1,0
+C101148,61.0,Standard,980.25,42,Bank transfer,No,Yes,No,4,0
+C101149,32.0,Basic,713.51,38,E-wallet,No,No,Yes,2,0
+C101150,30.0,Basic,564.78,24,Card,Yes,Yes,No,1,0
+C101151,18.0,Basic,774.46,14,Card,Yes,No,No,3,0
+C101152,34.0,Premium,1475.91,22,Bank transfer,No,No,No,2,1
+C101153,26.0,Basic,650.86,8,Bank transfer,No,Yes,Yes,1,0
+C101154,62.0,Basic,407.71,44,E-wallet,No,No,Yes,0,0
+C101155,54.0,Standard,782.75,16,Card,No,No,No,0,0
+C101156,34.0,Premium,1370.88,19,E-wallet,No,No,No,3,1
+C101157,69.0,Basic,1079.64,43,Bank transfer,Yes,Yes,No,4,1
+C101158,54.0,basic,1145.19,40,Bank transfer,No,No,Yes,0,1
+C101159,,Standard,1013.09,26,Bank transfer,Yes,No,Yes,3,0
+C101160,18.0,Standard,1087.24,47,Card,Yes,Yes,No,1,1
+C101161,,Basic,493.61,13,Card,No,No,No,1,0
+C101162,25.0,Standard,1080.44,26,Bank transfer,Yes,No,No,4,0
+C101163,22.0,Basic,342.23,13,Bank transfer,No,No,No,1,0
+C101164,54.0,Standard,1033.8,37,Bank transfer,Yes,No,No,2,0
+C101165,,Standard,813.88,37,Card,No,No,No,1,0
+C101166,59.0,Basic,487.55,49,Cash,No,Yes,No,1,0
+C101167,49.0,Premium,1431.15,22,Bank transfer,No,No,No,3,1
+C101168,49.0,Basic,742.87,56,Card,Yes,No,No,1,0
+C101169,52.0,Premium,1800.92,12,Card,No,Yes,Yes,2,1
+C101170,51.0,Standard,1088.93,21,E-wallet,No,Yes,No,3,0
+C101171,45.0,Basic,740.32,13,E-wallet,No,Yes,Yes,2,0
+C101172,43.0,Basic,,24,Bank transfer,Yes,No,No,2,0
+C101173,41.0,Premium,1557.09,13,E-wallet,No,Yes,No,1,1
+C101174,33.0,Basic,696.07,37,Card,No,No,Yes,0,0
+C101175,39.0,Basic,546.6,28,Card,No,Yes,No,1,0
+C101176,22.0,Basic,620.37,12,E-wallet,No,No,Yes,2,0
+C101177,41.0,Standard,908.87,33,E-wallet,No,No,No,2,0
+C101178,,Standard,56479.37,46,Bank transfer,Yes,No,No,3,1
+C101179,29.0,Basic,866.15,29,Bank Transfer ,Yes,No,Yes,0,0
+C101180,44.0,Basic,576.66,10,Card,Yes,No,No,4,0
+C101181,59.0,Basic,580.11,20,E-wallet,No,No,Yes,3,0
+C101182,53.0,Basic,740.99,31,Card,No,Yes,Yes,0,1
+C101183,23.0,Basic,1031.28,19,Card,Yes,Yes,No,1,0
+C101184,30.0,Standard,852.09,12,Card,No,No,No,1,0
+C101185,53.0,Basic,788.82,39,Card,No,No,Yes,1,0
+C101186,30.0,Basic,-436.78,19,Card,No,No,No,0,0
+C101187,39.0,Basic,801.34,46,Card,Yes,Yes,No,1,0
+C101188,49.0,Premium,1765.01,17,Card,Yes,Yes,No,3,1
+C101189,,Premium,1781.37,18,Card,Yes,Yes,Yes,2,1
+C101190,43.0,Premium,28126.26,16,Bank transfer,Yes,No,No,0,1
+C101191,26.0,Basic,849.06,20,Card,Yes,No,No,2,0
+C101192,35.0,Basic,768.15,28,Card,Yes,No,No,2,0
+C101193,46.0,Basic,594.88,13,E-wallet,No,No,No,0,0
+C101194,23.0,Basic,744.47,11,E-wallet,Yes,No,No,2,1
+C101195,47.0,Standard,1135.15,8,E-wallet,No,No,Yes,3,0
+C101196,42.0,Standard,1412.13,7,Card,Yes,Yes,No,0,1
+C101197,49.0,Premium,1555.27,10,E-wallet,Yes,No,No,2,1
+C101198,45.0,Premium,1739.27,16,Card,Yes,Yes,No,1,1
+C101199,58.0,Basic,595.89,24,Card,Yes,Yes,No,0,0
+C101178,,Standard,56479.37,46,Bank transfer,Yes,No,No,3,1
+C100865,37.0,Basic,569.93,14,E-wallet,No,No,Yes,1,0
+C100101,37.0,Basic,424.3,57,Card,No,No,No,2,0
+C100439,41.0,Standard,1145.82,37,Card,No,No,Yes,3,0
+C100058,46.0,Basic,430.98,22,Card,No,No,No,4,0
+C101120,55.0,Basic,660.43,40,Bank transfer,No,Yes,No,2,0
+C100323,67.0,Basic,575.74,17,Cash,Yes,Yes,No,3,0
+C100974,37.0,Standard,1126.9,49,Bank transfer,Yes,Yes,No,4,0
+C100411,29.0,Basic,896.68,30,Bank transfer,No,No,Yes,2,0
+C100855,35.0,Standard,1092.2,29,Card,No,No,Yes,3,0
+C100820,36.0,Basic,718.39,19,Card,Yes,No,No,5,0
+C100044,24.0,Premium,1526.56,31,Card,No,Yes,No,2,1
+C100049,21.0,Standard,992.05,28,Bank transfer,Yes,No,No,0,0
+C100849,36.0,Basic,,13,Card,Yes,No,No,0,1
+C100240,32.0,Basic,754.98,33,Card,No,No,Yes,4,0
+C100170,31.0,Premium,,14,Bank transfer,No,No,No,3,0
+C100523,49.0,Basic,590.1,8,Bank transfer,Yes,No,No,0,0
+C100765,34.0,Basic,512.66,21,E wallet,No,No,Yes,3,0
+C100838,54.0,Standard,1127.28,10,Bank transfer,No,Yes,Yes,4,1
+C100423,,Standard,1390.12,20,Card,Yes,Yes,Yes,2,1
+C100380,32.0,Basic,415.85,16,Card,No,No,No,1,0
+C100609,60.0,Premium,1475.37,14,Card,No,No,No,3,1
+C100676,29.0,Standard,761.58,29,Bank transfer,No,No,No,3,0
+C100344,36.0,Basic,492.59,34,Card,No,No,No,3,0
+C100109,41.0,Standard,1072.15,10,E wallet,Yes,No,Yes,1,0
+C100277,,Standard,1241.77,28,Cash,Yes,No,No,3,1
+C100677,63.0,Standard,855.6,26,Bank transfer,No,No,No,1,0
+C100570,42.0,Premium,,7,Bank transfer,No,Yes,No,2,1
+C100358,46.0,Standard,1112.64,7,Card,Yes,No,No,1,1
+C100598,37.0,Standard,987.22,12,Card,No,Yes,No,1,0
+C100390,31.0,Standard,955.45,18,Bank transfer,No,Yes,No,1,1
+C100893,56.0,Standard,896.22,15,Bank transfer,No,No,No,1,0
+C100692,29.0,Basic,497.66,14,Card,No,No,No,1,0
+C100727,,Basic,,29,E-wallet,No,Yes,No,1,0
+C100362,41.0,Premium,1297.81,27,E-wallet,No,No,No,0,1
